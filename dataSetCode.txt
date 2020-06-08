@@ -1,0 +1,588 @@
+
+void InsertarEnTokenList(int intTokenCodigo, char strTokenTextoFuente, int intReglon, int intColumna)
+{
+
+    ptrTokenNuevo= intTokenCodigo;
+    strTokenTextoFuente= '\0';
+    ptrTokenNuevo = intReglon;
+    intColumna = intColumna;
+    ptrSig = NULL;
+
+    if (ptrTmp == NULL)
+    {
+        ptrTokenList = ptrTokenNuevo;
+    }
+    else
+    {
+        while(ptrSig != NULL)
+        {
+            ptrTmp = ptrSig;
+        }
+        ptrSig = ptrTokenNuevo;
+    }
+}
+
+void ListaToken_Libera()
+{
+    while(ptrAux != NULL)
+    {
+        ptrAnt = ptrAux;
+        ptrAux = ptrAuxptrSig;
+
+        if(ptrAntstrTokenTextoFuente != NULL)
+            free(ptrAntstrTokenTextoFuente);
+        free(ptrAnt);
+    }
+
+}
+
+void ListaTokens_Imprime()
+{
+    ptrAux = ptrTokenList;
+    while(ptrAux != NULL)
+    {
+
+
+        ptrAux = ptrSig;
+    }
+}
+
+int ObtenerCodigoSimboloEntrada(char c)
+{
+    int intCodigoSimboloEntrada = -1;
+    switch(c)
+    {
+        case 'A': intCodigoSimboloEntrada = 0; break;
+        case 'a': intCodigoSimboloEntrada = 26; break;
+        case 'b': intCodigoSimboloEntrada = 27; break;
+        case '0': intCodigoSimboloEntrada = 52; break;
+        case '1': intCodigoSimboloEntrada = 53; break;
+        case '2': intCodigoSimboloEntrada = 54; break;
+        case '3': intCodigoSimboloEntrada = 55; break;
+        case '4': intCodigoSimboloEntrada = 56; break;
+        case '5': intCodigoSimboloEntrada = 57; break;
+        case '6': intCodigoSimboloEntrada = 58; break;
+        case '7': intCodigoSimboloEntrada = 59; break;
+        case '8': intCodigoSimboloEntrada = 60; break;
+        case '9': intCodigoSimboloEntrada = 61; break;
+
+    }
+
+    return intCodigoSimboloEntrada;
+}
+
+int EsTokenSeparador(int intCodigoSimboloTerminal)
+{
+    int boolRespuesta = FALSE;
+
+    switch(intCodigoSimboloTerminal)
+    {
+        case SIMBOLO_TERMINAL_Espacio:
+            boolRespuesta = TRUE;
+            break;
+        case SIMBOLO_TERMINAL_Tabulador:
+            boolRespuesta = TRUE;
+            break;
+        case SIMBOLO_TERMINAL_SaltoDeLinea:
+            boolRespuesta = TRUE;
+            break;
+        default:
+            break;
+    }
+
+    return boolRespuesta;
+}
+
+void scanner(char strArchivoNombre)
+{
+    int intEstadoActual = 0;
+    int intEstadoSiguiente;
+    char c;
+    int intCodigoSimboloEntrada;
+    int intTipoNodo;
+    int intCodigoSimboloTerminal;
+    char strTokenSimboloTerminal;
+    int boolBanderaLee = TRUE;
+    char strBuffer;
+    int intLenAux;
+    int intRenglon = 1;
+    int intColumna = 0;
+    int intRenglonToken;
+    int intColumnaToken;
+    strBuffer[0]='\0';
+
+
+    if (ptrArchivoFuente == NULL)
+    {
+
+    }
+    else
+    {
+        do
+        {
+            if (boolBanderaLee)
+            {
+
+                if (c == '\n')
+                {
+                    intRenglon++;
+                    intColumna=0;
+                }
+                else
+                {
+                    if (c == '\t')
+                    {
+                        intColumna = intColumna + (ESPACIOS_POR_TAB - (intColumna % ESPACIOS_POR_TAB));
+                    }
+                    else
+                        intColumna++;
+                }
+
+            }
+
+            if (intEstadoActual == 0)
+            {
+                intRenglonToken = intRenglon;
+                intColumnaToken = intColumna;
+            }
+
+            if (!boolBanderaLee)
+                boolBanderaLee = TRUE;
+            if((intEstadoSiguiente == TOKEN_RECONOCIDO) && ((intTipoNodo == TIPO_NODO_Final)  || (intTipoNodo == TIPO_NODO_IntermedioFinal) ) )
+            {
+
+                if (!EsTokenSeparador)
+                {
+
+
+                }
+
+                intEstadoActual = 0;
+                boolBanderaLee = FALSE;
+            }
+            else if (intEstadoSiguiente == SCANNER_ERROR)
+            {
+            }
+            else
+            {
+                intEstadoActual = intEstadoSiguiente;
+
+
+
+            }
+        } while (c != EOF);
+
+
+    }
+}
+
+int int intSimboloT)
+{
+    if(ptrCurrentTokenintTokenCodigo == intSimboloT)
+    {
+        return TRUE;
+    }else{
+        return FALSE;
+    }
+}
+
+void Expect(int intSimboloT)
+{
+    if(intSimboloT))
+    {
+        ptrCurrentToken = ptrCurrentTokenptrSig;
+    }else{
+            bolPDRCError=TRUE;
+    }
+
+}
+
+int int intSimboloNT)
+{
+    int bolRes = FALSE;
+        switch(intSimboloNT)
+        {
+            case SIMBOLO_NO_TERMINAL_S:
+                if(SIMBOLO_TERMINAL_PROGRAMA) {bolRes=TRUE; break;}
+            case SIMBOLO_NO_TERMINAL_IntruccionCompuesta:
+                if(SIMBOLO_TERMINAL_AbreParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_CierraParentesis) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_BloqueInstrucciones:
+                if(SIMBOLO_TERMINAL_Igual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_If) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_While) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_For) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Break) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_DO) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_Instruccion:
+                if(SIMBOLO_TERMINAL_Igual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_If) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_While) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_For) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Break) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_DO) {bolRes=TRUE; break;}
+
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionAsignacion:
+                if(SIMBOLO_TERMINAL_ID) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Igual) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionIf:
+                if(SIMBOLO_TERMINAL_If) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_AbreParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_CierraParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Else) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionWhile:
+                if(SIMBOLO_TERMINAL_While) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_AbreParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_CierraParentesis) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionImprime:
+                if(SIMBOLO_TERMINAL_Interrogacion) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_Expresion:
+                if(SIMBOLO_TERMINAL_And) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Or) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_ExpRelacional:
+                if(SIMBOLO_TERMINAL_MayorQue) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MenorQue) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MayorIgual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MenorIgual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Identico) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Diferente) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_ExpCompuesta:
+                if(SIMBOLO_TERMINAL_Mas) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Menos) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_ExpSimple:
+                if(SIMBOLO_TERMINAL_Asterisco){bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_Termino:
+                if(SIMBOLO_TERMINAL_NumEnt) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_NumDec) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_ID) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_AbreParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_CierraParentesis) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Exclamacion) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_OpAditivo:
+                if(SIMBOLO_TERMINAL_Mas){bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Menos) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_OpMultiplicativo:
+                if(SIMBOLO_TERMINAL_Asterisco) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Diagonal) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_OpRelacional:
+                if(SIMBOLO_TERMINAL_MayorQue) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MenorQue) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MayorIgual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_MenorIgual) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Identico) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Diferente) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_OpLogico:
+                if(SIMBOLO_TERMINAL_And) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_Or) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_OpPon:
+                if(SIMBOLO_TERMINAL_Potencia) {bolRes=TRUE; break;}
+                break;
+
+            case SIMBOLO_NO_TERMINAL_Numero:
+                if(SIMBOLO_TERMINAL_NumEnt) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_NumDec) {bolRes=TRUE; break;}
+                    break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionFor:
+                if(SIMBOLO_TERMINAL_For) {bolRes=TRUE; break;}
+                break;
+
+            case SIMBOLO_NO_TERMINAL_InstruccionBreak:
+                if(SIMBOLO_TERMINAL_Break) {bolRes=TRUE; break;}
+                if(SIMBOLO_TERMINAL_PuntoYComa) {bolRes=TRUE; break;}
+                break;
+            case SIMBOLO_NO_TERMINAL_InstruccionDo:
+                if(SIMBOLO_TERMINAL_DO) {bolRes=TRUE; break;}
+                break;
+            case SIMBOLO_NO_TERMINAL_InstruccionSelect:
+                if(SIMBOLO_TERMINAL_Select) {bolRes=TRUE; break;}
+                break;
+        }
+
+
+    return bolRes;
+}
+
+
+void s ()
+{
+
+}
+
+
+void InstruccionCompuesta()
+{
+    if(!bolPDRCError) {
+
+    }
+}
+
+void BloqueInstrucciones()
+{
+    if(!bolPDRCError) {
+
+        while (SIMBOLO_TERMINAL_PuntoYComa))
+        {
+
+        }
+    }
+
+}
+
+
+void Instruccion()
+{
+    if(!bolPDRCError) {
+        if(SIMBOLO_NO_TERMINAL_InstruccionAsignacion)
+        {
+        }
+        else if (SIMBOLO_NO_TERMINAL_InstruccionIf)
+        {
+
+        }
+        else if(SIMBOLO_NO_TERMINAL_InstruccionWhile)
+        {
+
+        }
+        else if (SIMBOLO_NO_TERMINAL_InstruccionImprime)
+        {
+
+        }
+        else if (SIMBOLO_NO_TERMINAL_IntruccionCompuesta)
+        {
+        }
+        else if (SIMBOLO_NO_TERMINAL_InstruccionFor)
+        {
+        }
+        else if (SIMBOLO_NO_TERMINAL_InstruccionBreak)
+        {
+
+        }else if (SIMBOLO_NO_TERMINAL_InstruccionDo)
+        {
+
+        }
+
+
+    }
+}
+
+
+void pushLR(int intSimboloTipo, int intSimboloCodigo, int intEstado)
+{
+
+	nuevointSimboloTipo = intSimboloTipo;
+	nuevointSimboloCodigo = intSimboloCodigo;
+	nuevointEstado = intEstado;
+	nuevoptrSig = NULL;
+
+	if (ptrStackLRTop != NULL)
+	{
+		nuevoptrSig = ptrStackLRTop;
+	}
+	ptrStackLRTop = nuevo;
+}
+
+void pushLR_T(int intSimboloCodigo)
+{
+
+}
+
+void pushLR_NT(int intSimboloCodigo)
+{
+
+}
+
+void pushLR_T_cEdo(int intSimboloCodigo, int intEstado)
+{
+
+}
+
+void pushLR_NT_cEdo(int intSimboloCodigo, int intEstado)
+{
+
+}
+
+void popLR()
+{
+	if (ptrStackLRTop != NULL)
+	{
+		aux = ptrStackLRTop;
+		ptrStackLRTop = ptrStackLRToptrSig;
+	}
+}
+
+void pops_LR(int intNumPops)
+{
+	for (int i = 0; i < intNumPops; i++)
+	{
+
+	}
+}
+
+void vaciar_StackLR()
+{
+	while (ptrStackLRTop != NULL)
+	{
+
+	}
+}
+
+void imprimeT_LR(int intSimboloCodigo)//
+{
+    switch(intSimboloCodigo)
+    {
+        case SIMBOLO_TERMINAL_PROGRAMA: break;
+        case SIMBOLO_TERMINAL_EOF: break;
+        case SIMBOLO_TERMINAL_Espacio: break;
+        case SIMBOLO_TERMINAL_Tabulador: break;
+        case SIMBOLO_TERMINAL_SaltoDeLinea:  break;
+        case SIMBOLO_TERMINAL_AbreLlave:  break;
+        case SIMBOLO_TERMINAL_CierraLlave:  break;
+        case SIMBOLO_TERMINAL_AbreParentesis: break;
+        case SIMBOLO_TERMINAL_CierraParentesis:  break;
+        case SIMBOLO_TERMINAL_PuntoYComa:  break;
+        case SIMBOLO_TERMINAL_Interrogacion:  break;
+        case SIMBOLO_TERMINAL_Exclamacion:  break;
+        case SIMBOLO_TERMINAL_Asterisco:  break;
+        case SIMBOLO_TERMINAL_Diagonal:  break;
+        case SIMBOLO_TERMINAL_Mas:  break;
+        default:  break;
+    }
+}
+
+
+void imprime_entrada_LR()
+{
+	t_token aux = ptrCurrentTokenLR;
+
+	while (aux != NULL)
+	{
+		aux = auxptrSig;
+	}
+}
+
+void stack_imprime2_LR(t_StackLR nodoStack)
+{
+	if (nodoStack != NULL)
+	{
+
+		switch (nodoStackintSimboloTipo)
+		{
+		case TIPO_SIMBOLO_TERMINAL:
+
+			break;
+		case TIPO_SIMBOLO_NO_TERMINAL:
+
+			break;
+		case TIPO_SIMBOLO_NO_DEFINIDO:
+			break;
+		default:
+			break;
+		}
+	}
+}
+
+void stack_imprime_LR()
+{
+
+}
+
+int ObtenerAccion(int intEstado, int intSimboloT)
+{
+	int intActionRes;
+
+	switch (MR_LR[intEstado][intSimboloT][0])
+	{
+	case LR_STRING_ACTION_SHIFT:
+		intActionRes = LR_ACTION_SHIFT;
+		break;
+	case LR_STRING_ACTION_REDUCE:
+		intActionRes = LR_ACTION_REDUCE;
+		break;
+	case LR_STRING_ACTION_ACCEPT:
+		intActionRes = LR_ACTION_ACCEPT;
+		break;
+	case LR_STRING_ACTION_ERROR:
+		intActionRes = LR_ACTION_ERROR;
+		break;
+	default:
+		break;
+	}
+	return intActionRes;
+}
+
+int ObtenerEstadoDeShift(int intEstado, int intSimboloT)
+{
+	int intRes = LR_ACTION_ERROR;
+
+	if (MR_LR[intEstado][intSimboloT][0] == LR_STRING_ACTION_SHIFT)
+	{
+
+	}
+	return intRes;
+}
+
+int ObtenerNumReglaDeReduce(int intEstado, int intSimboloT)
+{
+	int intRes = LR_ACTION_ERROR;
+
+	if (MR_LR[intEstado][intSimboloT][0] == LR_STRING_ACTION_REDUCE)
+	{
+		int res = atoi(MR_LR[intEstado][intSimboloT] + 1);
+	}
+
+	return intRes;
+}
+
+int ObtenerGoto(int intEstado, int intSimboloNT)
+{
+	int intRes = LR_ERROR;
+
+	if (MR_LR[intEstado][LR_GOTO_OFFSET + intSimboloNT] != '\0')
+	{
+
+	}
+	return intRes;
+}
+void PonerEstadoPorReduce(int intEstado)
+{
+	if (ptrStackLRTop != NULL)
+		ptrStackLRTopintEstado = intEstado;
+}
+
+
+
+
+

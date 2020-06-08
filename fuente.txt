@@ -1,0 +1,57 @@
+programa
+{
+	funcionSuma(int a,b)
+	{
+	 suma = a + b ;
+	 return suma;
+	}
+
+	funcionResta(int a,b)
+	{
+	 resta = a - b ;
+	 return resta;
+	}
+
+    funcionDivision(int a,b)
+	{
+	 multiplicacion = a / b ;
+	 return multiplicacion;
+	}
+
+	main() {
+
+    opcion    = 0;
+    resultado = 0;
+
+    print(Introduce la operacion deseada 1-Suma,2-Resta,3-Multiplicacion);
+
+    scan(opcion);
+
+	switch (opcion)
+
+	case 1  resultado = funcionSuma(a,b)
+
+	        if(resultado > 0){
+	          print(resultado postivo)
+	        }else{
+	          print(resultado negativo)
+              }
+
+	       break
+
+	case 2  resultado = funcionResta(a,b)
+
+	        if(resultado > 0){
+	          print(resultado postivo)
+	        }else{
+	          print(resultado negativo)
+	          }
+
+	       break
+
+	case 3  resultado = funcionDivision(a,b)
+           break
+
+	}
+
+}

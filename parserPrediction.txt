@@ -1,0 +1,19 @@
+programa o; 
+{ tra
+( int
+) b o
+{ tra
+0 trp
+0 trp
+; pte
+switch (RR
+( int
+) b o
+case  { 
+1 e( 
+( int
+,  if
+) b o
+break  } 
+} ptr
+} ptr

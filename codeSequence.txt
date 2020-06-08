@@ -1,0 +1,10808 @@
+void Insert
+oid Inserta
+id Insertar
+d InsertarE
+ InsertarEn
+InsertarEnT
+nsertarEnTo
+sertarEnTok
+ertarEnToke
+rtarEnToken
+tarEnTokenL
+arEnTokenLi
+rEnTokenLis
+EnTokenList
+nTokenList(
+TokenList(i
+okenList(in
+kenList(int
+enList(int 
+nList(int i
+List(int in
+ist(int int
+st(int intT
+t(int intTo
+(int intTok
+int intToke
+nt intToken
+t intTokenC
+ intTokenCo
+intTokenCod
+ntTokenCodi
+tTokenCodig
+TokenCodigo
+okenCodigo,
+kenCodigo, 
+enCodigo, c
+nCodigo, ch
+Codigo, cha
+odigo, char
+digo, char 
+igo, char s
+go, char st
+o, char str
+, char strT
+ char strTo
+char strTok
+har strToke
+ar strToken
+r strTokenT
+ strTokenTe
+strTokenTex
+trTokenText
+rTokenTexto
+TokenTextoF
+okenTextoFu
+kenTextoFue
+enTextoFuen
+nTextoFuent
+TextoFuente
+extoFuente,
+xtoFuente, 
+toFuente, i
+oFuente, in
+Fuente, int
+uente, int 
+ente, int i
+nte, int in
+te, int int
+e, int intR
+, int intRe
+ int intReg
+int intRegl
+nt intReglo
+t intReglon
+ intReglon,
+intReglon, 
+ntReglon, i
+tReglon, in
+Reglon, int
+eglon, int 
+glon, int i
+lon, int in
+on, int int
+n, int intC
+, int intCo
+ int intCol
+int intColu
+nt intColum
+t intColumn
+ intColumna
+intColumna)
+ntColumna) 
+tColumna) {
+Columna) { 
+olumna) { p
+lumna) { pt
+umna) { ptr
+mna) { ptrT
+na) { ptrTo
+a) { ptrTok
+) { ptrToke
+ { ptrToken
+{ ptrTokenN
+ ptrTokenNu
+ptrTokenNue
+trTokenNuev
+rTokenNuevo
+TokenNuevo=
+okenNuevo= 
+kenNuevo= i
+enNuevo= in
+nNuevo= int
+Nuevo= intT
+uevo= intTo
+evo= intTok
+vo= intToke
+o= intToken
+= intTokenC
+ intTokenCo
+intTokenCod
+ntTokenCodi
+tTokenCodig
+TokenCodigo
+okenCodigo;
+kenCodigo; 
+enCodigo; s
+nCodigo; st
+Codigo; str
+odigo; strT
+digo; strTo
+igo; strTok
+go; strToke
+o; strToken
+; strTokenT
+ strTokenTe
+strTokenTex
+trTokenText
+rTokenTexto
+TokenTextoF
+okenTextoFu
+kenTextoFue
+enTextoFuen
+nTextoFuent
+TextoFuente
+extoFuente=
+xtoFuente= 
+toFuente= '
+oFuente= '\
+Fuente= '\0
+uente= '\0'
+ente= '\0';
+nte= '\0'; 
+te= '\0'; p
+e= '\0'; pt
+= '\0'; ptr
+ '\0'; ptrT
+'\0'; ptrTo
+\0'; ptrTok
+0'; ptrToke
+'; ptrToken
+; ptrTokenN
+ ptrTokenNu
+ptrTokenNue
+trTokenNuev
+rTokenNuevo
+TokenNuevo 
+okenNuevo =
+kenNuevo = 
+enNuevo = i
+nNuevo = in
+Nuevo = int
+uevo = intR
+evo = intRe
+vo = intReg
+o = intRegl
+ = intReglo
+= intReglon
+ intReglon;
+intReglon; 
+ntReglon; i
+tReglon; in
+Reglon; int
+eglon; intC
+glon; intCo
+lon; intCol
+on; intColu
+n; intColum
+; intColumn
+ intColumna
+intColumna 
+ntColumna =
+tColumna = 
+Columna = i
+olumna = in
+lumna = int
+umna = intC
+mna = intCo
+na = intCol
+a = intColu
+ = intColum
+= intColumn
+ intColumna
+intColumna;
+ntColumna; 
+tColumna; p
+Columna; pt
+olumna; ptr
+lumna; ptrS
+umna; ptrSi
+mna; ptrSig
+na; ptrSig 
+a; ptrSig =
+; ptrSig = 
+ ptrSig = N
+ptrSig = NU
+trSig = NUL
+rSig = NULL
+Sig = NULL;
+ig = NULL; 
+g = NULL; i
+ = NULL; if
+= NULL; if 
+ NULL; if (
+NULL; if (p
+ULL; if (pt
+LL; if (ptr
+L; if (ptrT
+; if (ptrTm
+ if (ptrTmp
+if (ptrTmp 
+f (ptrTmp =
+ (ptrTmp ==
+(ptrTmp == 
+ptrTmp == N
+trTmp == NU
+rTmp == NUL
+Tmp == NULL
+mp == NULL)
+p == NULL) 
+ == NULL) {
+== NULL) { 
+= NULL) { p
+ NULL) { pt
+NULL) { ptr
+ULL) { ptrT
+LL) { ptrTo
+L) { ptrTok
+) { ptrToke
+ { ptrToken
+{ ptrTokenL
+ ptrTokenLi
+ptrTokenLis
+trTokenList
+rTokenList 
+TokenList =
+okenList = 
+kenList = p
+enList = pt
+nList = ptr
+List = ptrT
+ist = ptrTo
+st = ptrTok
+t = ptrToke
+ = ptrToken
+= ptrTokenN
+ ptrTokenNu
+ptrTokenNue
+trTokenNuev
+rTokenNuevo
+TokenNuevo;
+okenNuevo; 
+kenNuevo; }
+enNuevo; } 
+nNuevo; } e
+Nuevo; } el
+uevo; } els
+evo; } else
+vo; } else 
+o; } else {
+; } else { 
+ } else { w
+} else { wh
+ else { whi
+else { whil
+lse { while
+se { while(
+e { while(p
+ { while(pt
+{ while(ptr
+ while(ptrS
+while(ptrSi
+hile(ptrSig
+ile(ptrSig 
+le(ptrSig !
+e(ptrSig !=
+(ptrSig != 
+ptrSig != N
+trSig != NU
+rSig != NUL
+Sig != NULL
+ig != NULL)
+g != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { p
+ NULL) { pt
+NULL) { ptr
+ULL) { ptrT
+LL) { ptrTm
+L) { ptrTmp
+) { ptrTmp 
+ { ptrTmp =
+{ ptrTmp = 
+ ptrTmp = p
+ptrTmp = pt
+trTmp = ptr
+rTmp = ptrS
+Tmp = ptrSi
+mp = ptrSig
+p = ptrSig;
+ = ptrSig; 
+= ptrSig; }
+ ptrSig; } 
+ptrSig; } p
+trSig; } pt
+rSig; } ptr
+Sig; } ptrS
+ig; } ptrSi
+g; } ptrSig
+; } ptrSig 
+ } ptrSig =
+} ptrSig = 
+ ptrSig = p
+ptrSig = pt
+trSig = ptr
+rSig = ptrT
+Sig = ptrTo
+ig = ptrTok
+g = ptrToke
+ = ptrToken
+= ptrTokenN
+ ptrTokenNu
+ptrTokenNue
+trTokenNuev
+rTokenNuevo
+TokenNuevo;
+okenNuevo; 
+kenNuevo; }
+enNuevo; } 
+nNuevo; } }
+Nuevo; } } 
+uevo; } } v
+evo; } } vo
+vo; } } voi
+o; } } void
+; } } void 
+ } } void L
+} } void Li
+ } void Lis
+} void List
+ void Lista
+void ListaT
+oid ListaTo
+id ListaTok
+d ListaToke
+ ListaToken
+ListaToken_
+istaToken_L
+staToken_Li
+taToken_Lib
+aToken_Libe
+Token_Liber
+oken_Libera
+ken_Libera(
+en_Libera()
+n_Libera() 
+_Libera() {
+Libera() { 
+ibera() { w
+bera() { wh
+era() { whi
+ra() { whil
+a() { while
+() { while(
+) { while(p
+ { while(pt
+{ while(ptr
+ while(ptrA
+while(ptrAu
+hile(ptrAux
+ile(ptrAux 
+le(ptrAux !
+e(ptrAux !=
+(ptrAux != 
+ptrAux != N
+trAux != NU
+rAux != NUL
+Aux != NULL
+ux != NULL)
+x != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { p
+ NULL) { pt
+NULL) { ptr
+ULL) { ptrA
+LL) { ptrAn
+L) { ptrAnt
+) { ptrAnt 
+ { ptrAnt =
+{ ptrAnt = 
+ ptrAnt = p
+ptrAnt = pt
+trAnt = ptr
+rAnt = ptrA
+Ant = ptrAu
+nt = ptrAux
+t = ptrAux;
+ = ptrAux; 
+= ptrAux; p
+ ptrAux; pt
+ptrAux; ptr
+trAux; ptrA
+rAux; ptrAu
+Aux; ptrAux
+ux; ptrAux 
+x; ptrAux =
+; ptrAux = 
+ ptrAux = p
+ptrAux = pt
+trAux = ptr
+rAux = ptrA
+Aux = ptrAu
+ux = ptrAux
+x = ptrAuxp
+ = ptrAuxpt
+= ptrAuxptr
+ ptrAuxptrS
+ptrAuxptrSi
+trAuxptrSig
+rAuxptrSig;
+AuxptrSig; 
+uxptrSig; i
+xptrSig; if
+ptrSig; if(
+trSig; if(p
+rSig; if(pt
+Sig; if(ptr
+ig; if(ptrA
+g; if(ptrAn
+; if(ptrAnt
+ if(ptrAnts
+if(ptrAntst
+f(ptrAntstr
+(ptrAntstrT
+ptrAntstrTo
+trAntstrTok
+rAntstrToke
+AntstrToken
+ntstrTokenT
+tstrTokenTe
+strTokenTex
+trTokenText
+rTokenTexto
+TokenTextoF
+okenTextoFu
+kenTextoFue
+enTextoFuen
+nTextoFuent
+TextoFuente
+extoFuente 
+xtoFuente !
+toFuente !=
+oFuente != 
+Fuente != N
+uente != NU
+ente != NUL
+nte != NULL
+te != NULL)
+e != NULL) 
+ != NULL) f
+!= NULL) fr
+= NULL) fre
+ NULL) free
+NULL) free(
+ULL) free(p
+LL) free(pt
+L) free(ptr
+) free(ptrA
+ free(ptrAn
+free(ptrAnt
+ree(ptrAnts
+ee(ptrAntst
+e(ptrAntstr
+(ptrAntstrT
+ptrAntstrTo
+trAntstrTok
+rAntstrToke
+AntstrToken
+ntstrTokenT
+tstrTokenTe
+strTokenTex
+trTokenText
+rTokenTexto
+TokenTextoF
+okenTextoFu
+kenTextoFue
+enTextoFuen
+nTextoFuent
+TextoFuente
+extoFuente)
+xtoFuente);
+toFuente); 
+oFuente); f
+Fuente); fr
+uente); fre
+ente); free
+nte); free(
+te); free(p
+e); free(pt
+); free(ptr
+; free(ptrA
+ free(ptrAn
+free(ptrAnt
+ree(ptrAnt)
+ee(ptrAnt);
+e(ptrAnt); 
+(ptrAnt); }
+ptrAnt); } 
+trAnt); } }
+rAnt); } } 
+Ant); } } v
+nt); } } vo
+t); } } voi
+); } } void
+; } } void 
+ } } void L
+} } void Li
+ } void Lis
+} void List
+ void Lista
+void ListaT
+oid ListaTo
+id ListaTok
+d ListaToke
+ ListaToken
+ListaTokens
+istaTokens_
+staTokens_I
+taTokens_Im
+aTokens_Imp
+Tokens_Impr
+okens_Impri
+kens_Imprim
+ens_Imprime
+ns_Imprime(
+s_Imprime()
+_Imprime() 
+Imprime() {
+mprime() { 
+prime() { p
+rime() { pt
+ime() { ptr
+me() { ptrA
+e() { ptrAu
+() { ptrAux
+) { ptrAux 
+ { ptrAux =
+{ ptrAux = 
+ ptrAux = p
+ptrAux = pt
+trAux = ptr
+rAux = ptrT
+Aux = ptrTo
+ux = ptrTok
+x = ptrToke
+ = ptrToken
+= ptrTokenL
+ ptrTokenLi
+ptrTokenLis
+trTokenList
+rTokenList;
+TokenList; 
+okenList; w
+kenList; wh
+enList; whi
+nList; whil
+List; while
+ist; while(
+st; while(p
+t; while(pt
+; while(ptr
+ while(ptrA
+while(ptrAu
+hile(ptrAux
+ile(ptrAux 
+le(ptrAux !
+e(ptrAux !=
+(ptrAux != 
+ptrAux != N
+trAux != NU
+rAux != NUL
+Aux != NULL
+ux != NULL)
+x != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { p
+ NULL) { pt
+NULL) { ptr
+ULL) { ptrA
+LL) { ptrAu
+L) { ptrAux
+) { ptrAux 
+ { ptrAux =
+{ ptrAux = 
+ ptrAux = p
+ptrAux = pt
+trAux = ptr
+rAux = ptrS
+Aux = ptrSi
+ux = ptrSig
+x = ptrSig;
+ = ptrSig; 
+= ptrSig; }
+ ptrSig; } 
+ptrSig; } }
+trSig; } } 
+rSig; } } i
+Sig; } } in
+ig; } } int
+g; } } int 
+; } } int O
+ } } int Ob
+} } int Obt
+ } int Obte
+} int Obten
+ int Obtene
+int Obtener
+nt ObtenerC
+t ObtenerCo
+ ObtenerCod
+ObtenerCodi
+btenerCodig
+tenerCodigo
+enerCodigoS
+nerCodigoSi
+erCodigoSim
+rCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada(
+loEntrada(c
+oEntrada(ch
+Entrada(cha
+ntrada(char
+trada(char 
+rada(char c
+ada(char c)
+da(char c) 
+a(char c) {
+(char c) { 
+char c) { i
+har c) { in
+ar c) { int
+r c) { int 
+ c) { int i
+c) { int in
+) { int int
+ { int intC
+{ int intCo
+ int intCod
+int intCodi
+nt intCodig
+t intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = -
+ntrada = -1
+trada = -1;
+rada = -1; 
+ada = -1; s
+da = -1; sw
+a = -1; swi
+ = -1; swit
+= -1; switc
+ -1; switch
+-1; switch(
+1; switch(c
+; switch(c)
+ switch(c) 
+switch(c) {
+witch(c) { 
+itch(c) { c
+tch(c) { ca
+ch(c) { cas
+h(c) { case
+(c) { case 
+c) { case '
+) { case 'A
+ { case 'A'
+{ case 'A':
+ case 'A': 
+case 'A': i
+ase 'A': in
+se 'A': int
+e 'A': intC
+ 'A': intCo
+'A': intCod
+A': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 0
+ntrada = 0;
+trada = 0; 
+rada = 0; b
+ada = 0; br
+da = 0; bre
+a = 0; brea
+ = 0; break
+= 0; break;
+ 0; break; 
+0; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case 'a
+k; case 'a'
+; case 'a':
+ case 'a': 
+case 'a': i
+ase 'a': in
+se 'a': int
+e 'a': intC
+ 'a': intCo
+'a': intCod
+a': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 2
+ntrada = 26
+trada = 26;
+rada = 26; 
+ada = 26; b
+da = 26; br
+a = 26; bre
+ = 26; brea
+= 26; break
+ 26; break;
+26; break; 
+6; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case 'b
+k; case 'b'
+; case 'b':
+ case 'b': 
+case 'b': i
+ase 'b': in
+se 'b': int
+e 'b': intC
+ 'b': intCo
+'b': intCod
+b': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 2
+ntrada = 27
+trada = 27;
+rada = 27; 
+ada = 27; b
+da = 27; br
+a = 27; bre
+ = 27; brea
+= 27; break
+ 27; break;
+27; break; 
+7; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '0
+k; case '0'
+; case '0':
+ case '0': 
+case '0': i
+ase '0': in
+se '0': int
+e '0': intC
+ '0': intCo
+'0': intCod
+0': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 52
+trada = 52;
+rada = 52; 
+ada = 52; b
+da = 52; br
+a = 52; bre
+ = 52; brea
+= 52; break
+ 52; break;
+52; break; 
+2; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '1
+k; case '1'
+; case '1':
+ case '1': 
+case '1': i
+ase '1': in
+se '1': int
+e '1': intC
+ '1': intCo
+'1': intCod
+1': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 53
+trada = 53;
+rada = 53; 
+ada = 53; b
+da = 53; br
+a = 53; bre
+ = 53; brea
+= 53; break
+ 53; break;
+53; break; 
+3; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '2
+k; case '2'
+; case '2':
+ case '2': 
+case '2': i
+ase '2': in
+se '2': int
+e '2': intC
+ '2': intCo
+'2': intCod
+2': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 54
+trada = 54;
+rada = 54; 
+ada = 54; b
+da = 54; br
+a = 54; bre
+ = 54; brea
+= 54; break
+ 54; break;
+54; break; 
+4; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '3
+k; case '3'
+; case '3':
+ case '3': 
+case '3': i
+ase '3': in
+se '3': int
+e '3': intC
+ '3': intCo
+'3': intCod
+3': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 55
+trada = 55;
+rada = 55; 
+ada = 55; b
+da = 55; br
+a = 55; bre
+ = 55; brea
+= 55; break
+ 55; break;
+55; break; 
+5; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '4
+k; case '4'
+; case '4':
+ case '4': 
+case '4': i
+ase '4': in
+se '4': int
+e '4': intC
+ '4': intCo
+'4': intCod
+4': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 56
+trada = 56;
+rada = 56; 
+ada = 56; b
+da = 56; br
+a = 56; bre
+ = 56; brea
+= 56; break
+ 56; break;
+56; break; 
+6; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '5
+k; case '5'
+; case '5':
+ case '5': 
+case '5': i
+ase '5': in
+se '5': int
+e '5': intC
+ '5': intCo
+'5': intCod
+5': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 57
+trada = 57;
+rada = 57; 
+ada = 57; b
+da = 57; br
+a = 57; bre
+ = 57; brea
+= 57; break
+ 57; break;
+57; break; 
+7; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '6
+k; case '6'
+; case '6':
+ case '6': 
+case '6': i
+ase '6': in
+se '6': int
+e '6': intC
+ '6': intCo
+'6': intCod
+6': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 58
+trada = 58;
+rada = 58; 
+ada = 58; b
+da = 58; br
+a = 58; bre
+ = 58; brea
+= 58; break
+ 58; break;
+58; break; 
+8; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '7
+k; case '7'
+; case '7':
+ case '7': 
+case '7': i
+ase '7': in
+se '7': int
+e '7': intC
+ '7': intCo
+'7': intCod
+7': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 5
+ntrada = 59
+trada = 59;
+rada = 59; 
+ada = 59; b
+da = 59; br
+a = 59; bre
+ = 59; brea
+= 59; break
+ 59; break;
+59; break; 
+9; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '8
+k; case '8'
+; case '8':
+ case '8': 
+case '8': i
+ase '8': in
+se '8': int
+e '8': intC
+ '8': intCo
+'8': intCod
+8': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 6
+ntrada = 60
+trada = 60;
+rada = 60; 
+ada = 60; b
+da = 60; br
+a = 60; bre
+ = 60; brea
+= 60; break
+ 60; break;
+60; break; 
+0; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case '
+ak; case '9
+k; case '9'
+; case '9':
+ case '9': 
+case '9': i
+ase '9': in
+se '9': int
+e '9': intC
+ '9': intCo
+'9': intCod
+9': intCodi
+': intCodig
+: intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada 
+loEntrada =
+oEntrada = 
+Entrada = 6
+ntrada = 61
+trada = 61;
+rada = 61; 
+ada = 61; b
+da = 61; br
+a = 61; bre
+ = 61; brea
+= 61; break
+ 61; break;
+61; break; 
+1; break; }
+; break; } 
+ break; } r
+break; } re
+reak; } ret
+eak; } retu
+ak; } retur
+k; } return
+; } return 
+ } return i
+} return in
+ return int
+return intC
+eturn intCo
+turn intCod
+urn intCodi
+rn intCodig
+n intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada;
+loEntrada; 
+oEntrada; }
+Entrada; } 
+ntrada; } i
+trada; } in
+rada; } int
+ada; } int 
+da; } int E
+a; } int Es
+; } int EsT
+ } int EsTo
+} int EsTok
+ int EsToke
+int EsToken
+nt EsTokenS
+t EsTokenSe
+ EsTokenSep
+EsTokenSepa
+sTokenSepar
+TokenSepara
+okenSeparad
+kenSeparado
+enSeparador
+nSeparador(
+Separador(i
+eparador(in
+parador(int
+arador(int 
+rador(int i
+ador(int in
+dor(int int
+or(int intC
+r(int intCo
+(int intCod
+int intCodi
+nt intCodig
+t intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloT
+goSimboloTe
+oSimboloTer
+SimboloTerm
+imboloTermi
+mboloTermin
+boloTermina
+oloTerminal
+loTerminal)
+oTerminal) 
+Terminal) {
+erminal) { 
+rminal) { i
+minal) { in
+inal) { int
+nal) { int 
+al) { int b
+l) { int bo
+) { int boo
+ { int bool
+{ int boolR
+ int boolRe
+int boolRes
+nt boolResp
+t boolRespu
+ boolRespue
+boolRespues
+oolRespuest
+olRespuesta
+lRespuesta 
+Respuesta =
+espuesta = 
+spuesta = F
+puesta = FA
+uesta = FAL
+esta = FALS
+sta = FALSE
+ta = FALSE;
+a = FALSE; 
+ = FALSE; s
+= FALSE; sw
+ FALSE; swi
+FALSE; swit
+ALSE; switc
+LSE; switch
+SE; switch(
+E; switch(i
+; switch(in
+ switch(int
+switch(intC
+witch(intCo
+itch(intCod
+tch(intCodi
+ch(intCodig
+h(intCodigo
+(intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloT
+goSimboloTe
+oSimboloTer
+SimboloTerm
+imboloTermi
+mboloTermin
+boloTermina
+oloTerminal
+loTerminal)
+oTerminal) 
+Terminal) {
+erminal) { 
+rminal) { c
+minal) { ca
+inal) { cas
+nal) { case
+al) { case 
+l) { case S
+) { case SI
+ { case SIM
+{ case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Es
+ERMINAL_Esp
+RMINAL_Espa
+MINAL_Espac
+INAL_Espaci
+NAL_Espacio
+AL_Espacio:
+L_Espacio: 
+_Espacio: b
+Espacio: bo
+spacio: boo
+pacio: bool
+acio: boolR
+cio: boolRe
+io: boolRes
+o: boolResp
+: boolRespu
+ boolRespue
+boolRespues
+oolRespuest
+olRespuesta
+lRespuesta 
+Respuesta =
+espuesta = 
+spuesta = T
+puesta = TR
+uesta = TRU
+esta = TRUE
+sta = TRUE;
+ta = TRUE; 
+a = TRUE; b
+ = TRUE; br
+= TRUE; bre
+ TRUE; brea
+TRUE; break
+RUE; break;
+UE; break; 
+E; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_T
+TERMINAL_Ta
+ERMINAL_Tab
+RMINAL_Tabu
+MINAL_Tabul
+INAL_Tabula
+NAL_Tabulad
+AL_Tabulado
+L_Tabulador
+_Tabulador:
+Tabulador: 
+abulador: b
+bulador: bo
+ulador: boo
+lador: bool
+ador: boolR
+dor: boolRe
+or: boolRes
+r: boolResp
+: boolRespu
+ boolRespue
+boolRespues
+oolRespuest
+olRespuesta
+lRespuesta 
+Respuesta =
+espuesta = 
+spuesta = T
+puesta = TR
+uesta = TRU
+esta = TRUE
+sta = TRUE;
+ta = TRUE; 
+a = TRUE; b
+ = TRUE; br
+= TRUE; bre
+ TRUE; brea
+TRUE; break
+RUE; break;
+UE; break; 
+E; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_S
+TERMINAL_Sa
+ERMINAL_Sal
+RMINAL_Salt
+MINAL_Salto
+INAL_SaltoD
+NAL_SaltoDe
+AL_SaltoDeL
+L_SaltoDeLi
+_SaltoDeLin
+SaltoDeLine
+altoDeLinea
+ltoDeLinea:
+toDeLinea: 
+oDeLinea: b
+DeLinea: bo
+eLinea: boo
+Linea: bool
+inea: boolR
+nea: boolRe
+ea: boolRes
+a: boolResp
+: boolRespu
+ boolRespue
+boolRespues
+oolRespuest
+olRespuesta
+lRespuesta 
+Respuesta =
+espuesta = 
+spuesta = T
+puesta = TR
+uesta = TRU
+esta = TRUE
+sta = TRUE;
+ta = TRUE; 
+a = TRUE; b
+ = TRUE; br
+= TRUE; bre
+ TRUE; brea
+TRUE; break
+RUE; break;
+UE; break; 
+E; break; d
+; break; de
+ break; def
+break; defa
+reak; defau
+eak; defaul
+ak; default
+k; default:
+; default: 
+ default: b
+default: br
+efault: bre
+fault: brea
+ault: break
+ult: break;
+lt: break; 
+t: break; }
+: break; } 
+ break; } r
+break; } re
+reak; } ret
+eak; } retu
+ak; } retur
+k; } return
+; } return 
+ } return b
+} return bo
+ return boo
+return bool
+eturn boolR
+turn boolRe
+urn boolRes
+rn boolResp
+n boolRespu
+ boolRespue
+boolRespues
+oolRespuest
+olRespuesta
+lRespuesta;
+Respuesta; 
+espuesta; }
+spuesta; } 
+puesta; } v
+uesta; } vo
+esta; } voi
+sta; } void
+ta; } void 
+a; } void s
+; } void sc
+ } void sca
+} void scan
+ void scann
+void scanne
+oid scanner
+id scanner(
+d scanner(c
+ scanner(ch
+scanner(cha
+canner(char
+anner(char 
+nner(char s
+ner(char st
+er(char str
+r(char strA
+(char strAr
+char strArc
+har strArch
+ar strArchi
+r strArchiv
+ strArchivo
+strArchivoN
+trArchivoNo
+rArchivoNom
+ArchivoNomb
+rchivoNombr
+chivoNombre
+hivoNombre)
+ivoNombre) 
+voNombre) {
+oNombre) { 
+Nombre) { i
+ombre) { in
+mbre) { int
+bre) { int 
+re) { int i
+e) { int in
+) { int int
+ { int intE
+{ int intEs
+ int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstadoA
+intEstadoAc
+ntEstadoAct
+tEstadoActu
+EstadoActua
+stadoActual
+tadoActual 
+adoActual =
+doActual = 
+oActual = 0
+Actual = 0;
+ctual = 0; 
+tual = 0; i
+ual = 0; in
+al = 0; int
+l = 0; int 
+ = 0; int i
+= 0; int in
+ 0; int int
+0; int intE
+; int intEs
+ int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstadoS
+intEstadoSi
+ntEstadoSig
+tEstadoSigu
+EstadoSigui
+stadoSiguie
+tadoSiguien
+adoSiguient
+doSiguiente
+oSiguiente;
+Siguiente; 
+iguiente; c
+guiente; ch
+uiente; cha
+iente; char
+ente; char 
+nte; char c
+te; char c;
+e; char c; 
+; char c; i
+ char c; in
+char c; int
+har c; int 
+ar c; int i
+r c; int in
+ c; int int
+c; int intC
+; int intCo
+ int intCod
+int intCodi
+nt intCodig
+t intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloE
+goSimboloEn
+oSimboloEnt
+SimboloEntr
+imboloEntra
+mboloEntrad
+boloEntrada
+oloEntrada;
+loEntrada; 
+oEntrada; i
+Entrada; in
+ntrada; int
+trada; int 
+rada; int i
+ada; int in
+da; int int
+a; int intT
+; int intTi
+ int intTip
+int intTipo
+nt intTipoN
+t intTipoNo
+ intTipoNod
+intTipoNodo
+ntTipoNodo;
+tTipoNodo; 
+TipoNodo; i
+ipoNodo; in
+poNodo; int
+oNodo; int 
+Nodo; int i
+odo; int in
+do; int int
+o; int intC
+; int intCo
+ int intCod
+int intCodi
+nt intCodig
+t intCodigo
+ intCodigoS
+intCodigoSi
+ntCodigoSim
+tCodigoSimb
+CodigoSimbo
+odigoSimbol
+digoSimbolo
+igoSimboloT
+goSimboloTe
+oSimboloTer
+SimboloTerm
+imboloTermi
+mboloTermin
+boloTermina
+oloTerminal
+loTerminal;
+oTerminal; 
+Terminal; c
+erminal; ch
+rminal; cha
+minal; char
+inal; char 
+nal; char s
+al; char st
+l; char str
+; char strT
+ char strTo
+char strTok
+har strToke
+ar strToken
+r strTokenS
+ strTokenSi
+strTokenSim
+trTokenSimb
+rTokenSimbo
+TokenSimbol
+okenSimbolo
+kenSimboloT
+enSimboloTe
+nSimboloTer
+SimboloTerm
+imboloTermi
+mboloTermin
+boloTermina
+oloTerminal
+loTerminal;
+oTerminal; 
+Terminal; i
+erminal; in
+rminal; int
+minal; int 
+inal; int b
+nal; int bo
+al; int boo
+l; int bool
+; int boolB
+ int boolBa
+int boolBan
+nt boolBand
+t boolBande
+ boolBander
+boolBandera
+oolBanderaL
+olBanderaLe
+lBanderaLee
+BanderaLee 
+anderaLee =
+nderaLee = 
+deraLee = T
+eraLee = TR
+raLee = TRU
+aLee = TRUE
+Lee = TRUE;
+ee = TRUE; 
+e = TRUE; c
+ = TRUE; ch
+= TRUE; cha
+ TRUE; char
+TRUE; char 
+RUE; char s
+UE; char st
+E; char str
+; char strB
+ char strBu
+char strBuf
+har strBuff
+ar strBuffe
+r strBuffer
+ strBuffer;
+strBuffer; 
+trBuffer; i
+rBuffer; in
+Buffer; int
+uffer; int 
+ffer; int i
+fer; int in
+er; int int
+r; int intL
+; int intLe
+ int intLen
+int intLenA
+nt intLenAu
+t intLenAux
+ intLenAux;
+intLenAux; 
+ntLenAux; i
+tLenAux; in
+LenAux; int
+enAux; int 
+nAux; int i
+Aux; int in
+ux; int int
+x; int intR
+; int intRe
+ int intRen
+int intReng
+nt intRengl
+t intRenglo
+ intRenglon
+intRenglon 
+ntRenglon =
+tRenglon = 
+Renglon = 1
+englon = 1;
+nglon = 1; 
+glon = 1; i
+lon = 1; in
+on = 1; int
+n = 1; int 
+ = 1; int i
+= 1; int in
+ 1; int int
+1; int intC
+; int intCo
+ int intCol
+int intColu
+nt intColum
+t intColumn
+ intColumna
+intColumna 
+ntColumna =
+tColumna = 
+Columna = 0
+olumna = 0;
+lumna = 0; 
+umna = 0; i
+mna = 0; in
+na = 0; int
+a = 0; int 
+ = 0; int i
+= 0; int in
+ 0; int int
+0; int intR
+; int intRe
+ int intRen
+int intReng
+nt intRengl
+t intRenglo
+ intRenglon
+intRenglonT
+ntRenglonTo
+tRenglonTok
+RenglonToke
+englonToken
+nglonToken;
+glonToken; 
+lonToken; i
+onToken; in
+nToken; int
+Token; int 
+oken; int i
+ken; int in
+en; int int
+n; int intC
+; int intCo
+ int intCol
+int intColu
+nt intColum
+t intColumn
+ intColumna
+intColumnaT
+ntColumnaTo
+tColumnaTok
+ColumnaToke
+olumnaToken
+lumnaToken;
+umnaToken; 
+mnaToken; s
+naToken; st
+aToken; str
+Token; strB
+oken; strBu
+ken; strBuf
+en; strBuff
+n; strBuffe
+; strBuffer
+ strBuffer[
+strBuffer[0
+trBuffer[0]
+rBuffer[0]=
+Buffer[0]='
+uffer[0]='\
+ffer[0]='\0
+fer[0]='\0'
+er[0]='\0';
+r[0]='\0'; 
+[0]='\0'; i
+0]='\0'; if
+]='\0'; if 
+='\0'; if (
+'\0'; if (p
+\0'; if (pt
+0'; if (ptr
+'; if (ptrA
+; if (ptrAr
+ if (ptrArc
+if (ptrArch
+f (ptrArchi
+ (ptrArchiv
+(ptrArchivo
+ptrArchivoF
+trArchivoFu
+rArchivoFue
+ArchivoFuen
+rchivoFuent
+chivoFuente
+hivoFuente 
+ivoFuente =
+voFuente ==
+oFuente == 
+Fuente == N
+uente == NU
+ente == NUL
+nte == NULL
+te == NULL)
+e == NULL) 
+ == NULL) {
+== NULL) { 
+= NULL) { }
+ NULL) { } 
+NULL) { } e
+ULL) { } el
+LL) { } els
+L) { } else
+) { } else 
+ { } else {
+{ } else { 
+ } else { d
+} else { do
+ else { do 
+else { do {
+lse { do { 
+se { do { i
+e { do { if
+ { do { if 
+{ do { if (
+ do { if (b
+do { if (bo
+o { if (boo
+ { if (bool
+{ if (boolB
+ if (boolBa
+if (boolBan
+f (boolBand
+ (boolBande
+(boolBander
+boolBandera
+oolBanderaL
+olBanderaLe
+lBanderaLee
+BanderaLee)
+anderaLee) 
+nderaLee) {
+deraLee) { 
+eraLee) { i
+raLee) { if
+aLee) { if 
+Lee) { if (
+ee) { if (c
+e) { if (c 
+) { if (c =
+ { if (c ==
+{ if (c == 
+ if (c == '
+if (c == '\
+f (c == '\n
+ (c == '\n'
+(c == '\n')
+c == '\n') 
+ == '\n') {
+== '\n') { 
+= '\n') { i
+ '\n') { in
+'\n') { int
+\n') { intR
+n') { intRe
+') { intRen
+) { intReng
+ { intRengl
+{ intRenglo
+ intRenglon
+intRenglon+
+ntRenglon++
+tRenglon++;
+Renglon++; 
+englon++; i
+nglon++; in
+glon++; int
+lon++; intC
+on++; intCo
+n++; intCol
+++; intColu
++; intColum
+; intColumn
+ intColumna
+intColumna=
+ntColumna=0
+tColumna=0;
+Columna=0; 
+olumna=0; }
+lumna=0; } 
+umna=0; } e
+mna=0; } el
+na=0; } els
+a=0; } else
+=0; } else 
+0; } else {
+; } else { 
+ } else { i
+} else { if
+ else { if 
+else { if (
+lse { if (c
+se { if (c 
+e { if (c =
+ { if (c ==
+{ if (c == 
+ if (c == '
+if (c == '\
+f (c == '\t
+ (c == '\t'
+(c == '\t')
+c == '\t') 
+ == '\t') {
+== '\t') { 
+= '\t') { i
+ '\t') { in
+'\t') { int
+\t') { intC
+t') { intCo
+') { intCol
+) { intColu
+ { intColum
+{ intColumn
+ intColumna
+intColumna 
+ntColumna =
+tColumna = 
+Columna = i
+olumna = in
+lumna = int
+umna = intC
+mna = intCo
+na = intCol
+a = intColu
+ = intColum
+= intColumn
+ intColumna
+intColumna 
+ntColumna +
+tColumna + 
+Columna + (
+olumna + (E
+lumna + (ES
+umna + (ESP
+mna + (ESPA
+na + (ESPAC
+a + (ESPACI
+ + (ESPACIO
++ (ESPACIOS
+ (ESPACIOS_
+(ESPACIOS_P
+ESPACIOS_PO
+SPACIOS_POR
+PACIOS_POR_
+ACIOS_POR_T
+CIOS_POR_TA
+IOS_POR_TAB
+OS_POR_TAB 
+S_POR_TAB -
+_POR_TAB - 
+POR_TAB - (
+OR_TAB - (i
+R_TAB - (in
+_TAB - (int
+TAB - (intC
+AB - (intCo
+B - (intCol
+ - (intColu
+- (intColum
+ (intColumn
+(intColumna
+intColumna 
+ntColumna %
+tColumna % 
+Columna % E
+olumna % ES
+lumna % ESP
+umna % ESPA
+mna % ESPAC
+na % ESPACI
+a % ESPACIO
+ % ESPACIOS
+% ESPACIOS_
+ ESPACIOS_P
+ESPACIOS_PO
+SPACIOS_POR
+PACIOS_POR_
+ACIOS_POR_T
+CIOS_POR_TA
+IOS_POR_TAB
+OS_POR_TAB)
+S_POR_TAB))
+_POR_TAB));
+POR_TAB)); 
+OR_TAB)); }
+R_TAB)); } 
+_TAB)); } e
+TAB)); } el
+AB)); } els
+B)); } else
+)); } else 
+); } else i
+; } else in
+ } else int
+} else intC
+ else intCo
+else intCol
+lse intColu
+se intColum
+e intColumn
+ intColumna
+intColumna+
+ntColumna++
+tColumna++;
+Columna++; 
+olumna++; }
+lumna++; } 
+umna++; } }
+mna++; } } 
+na++; } } i
+a++; } } if
+++; } } if 
++; } } if (
+; } } if (i
+ } } if (in
+} } if (int
+ } if (intE
+} if (intEs
+ if (intEst
+if (intEsta
+f (intEstad
+ (intEstado
+(intEstadoA
+intEstadoAc
+ntEstadoAct
+tEstadoActu
+EstadoActua
+stadoActual
+tadoActual 
+adoActual =
+doActual ==
+oActual == 
+Actual == 0
+ctual == 0)
+tual == 0) 
+ual == 0) {
+al == 0) { 
+l == 0) { i
+ == 0) { in
+== 0) { int
+= 0) { intR
+ 0) { intRe
+0) { intRen
+) { intReng
+ { intRengl
+{ intRenglo
+ intRenglon
+intRenglonT
+ntRenglonTo
+tRenglonTok
+RenglonToke
+englonToken
+nglonToken 
+glonToken =
+lonToken = 
+onToken = i
+nToken = in
+Token = int
+oken = intR
+ken = intRe
+en = intRen
+n = intReng
+ = intRengl
+= intRenglo
+ intRenglon
+intRenglon;
+ntRenglon; 
+tRenglon; i
+Renglon; in
+englon; int
+nglon; intC
+glon; intCo
+lon; intCol
+on; intColu
+n; intColum
+; intColumn
+ intColumna
+intColumnaT
+ntColumnaTo
+tColumnaTok
+ColumnaToke
+olumnaToken
+lumnaToken 
+umnaToken =
+mnaToken = 
+naToken = i
+aToken = in
+Token = int
+oken = intC
+ken = intCo
+en = intCol
+n = intColu
+ = intColum
+= intColumn
+ intColumna
+intColumna;
+ntColumna; 
+tColumna; }
+Columna; } 
+olumna; } i
+lumna; } if
+umna; } if 
+mna; } if (
+na; } if (!
+a; } if (!b
+; } if (!bo
+ } if (!boo
+} if (!bool
+ if (!boolB
+if (!boolBa
+f (!boolBan
+ (!boolBand
+(!boolBande
+!boolBander
+boolBandera
+oolBanderaL
+olBanderaLe
+lBanderaLee
+BanderaLee)
+anderaLee) 
+nderaLee) b
+deraLee) bo
+eraLee) boo
+raLee) bool
+aLee) boolB
+Lee) boolBa
+ee) boolBan
+e) boolBand
+) boolBande
+ boolBander
+boolBandera
+oolBanderaL
+olBanderaLe
+lBanderaLee
+BanderaLee 
+anderaLee =
+nderaLee = 
+deraLee = T
+eraLee = TR
+raLee = TRU
+aLee = TRUE
+Lee = TRUE;
+ee = TRUE; 
+e = TRUE; i
+ = TRUE; if
+= TRUE; if(
+ TRUE; if((
+TRUE; if((i
+RUE; if((in
+UE; if((int
+E; if((intE
+; if((intEs
+ if((intEst
+if((intEsta
+f((intEstad
+((intEstado
+(intEstadoS
+intEstadoSi
+ntEstadoSig
+tEstadoSigu
+EstadoSigui
+stadoSiguie
+tadoSiguien
+adoSiguient
+doSiguiente
+oSiguiente 
+Siguiente =
+iguiente ==
+guiente == 
+uiente == T
+iente == TO
+ente == TOK
+nte == TOKE
+te == TOKEN
+e == TOKEN_
+ == TOKEN_R
+== TOKEN_RE
+= TOKEN_REC
+ TOKEN_RECO
+TOKEN_RECON
+OKEN_RECONO
+KEN_RECONOC
+EN_RECONOCI
+N_RECONOCID
+_RECONOCIDO
+RECONOCIDO)
+ECONOCIDO) 
+CONOCIDO) &
+ONOCIDO) &&
+NOCIDO) && 
+OCIDO) && (
+CIDO) && ((
+IDO) && ((i
+DO) && ((in
+O) && ((int
+) && ((intT
+ && ((intTi
+&& ((intTip
+& ((intTipo
+ ((intTipoN
+((intTipoNo
+(intTipoNod
+intTipoNodo
+ntTipoNodo 
+tTipoNodo =
+TipoNodo ==
+ipoNodo == 
+poNodo == T
+oNodo == TI
+Nodo == TIP
+odo == TIPO
+do == TIPO_
+o == TIPO_N
+ == TIPO_NO
+== TIPO_NOD
+= TIPO_NODO
+ TIPO_NODO_
+TIPO_NODO_F
+IPO_NODO_Fi
+PO_NODO_Fin
+O_NODO_Fina
+_NODO_Final
+NODO_Final)
+ODO_Final) 
+DO_Final) |
+O_Final) ||
+_Final) || 
+Final) || (
+inal) || (i
+nal) || (in
+al) || (int
+l) || (intT
+) || (intTi
+ || (intTip
+|| (intTipo
+| (intTipoN
+ (intTipoNo
+(intTipoNod
+intTipoNodo
+ntTipoNodo 
+tTipoNodo =
+TipoNodo ==
+ipoNodo == 
+poNodo == T
+oNodo == TI
+Nodo == TIP
+odo == TIPO
+do == TIPO_
+o == TIPO_N
+ == TIPO_NO
+== TIPO_NOD
+= TIPO_NODO
+ TIPO_NODO_
+TIPO_NODO_I
+IPO_NODO_In
+PO_NODO_Int
+O_NODO_Inte
+_NODO_Inter
+NODO_Interm
+ODO_Interme
+DO_Intermed
+O_Intermedi
+_Intermedio
+IntermedioF
+ntermedioFi
+termedioFin
+ermedioFina
+rmedioFinal
+medioFinal)
+edioFinal) 
+dioFinal) )
+ioFinal) ) 
+oFinal) ) )
+Final) ) ) 
+inal) ) ) {
+nal) ) ) { 
+al) ) ) { i
+l) ) ) { if
+) ) ) { if 
+ ) ) { if (
+) ) { if (!
+ ) { if (!E
+) { if (!Es
+ { if (!EsT
+{ if (!EsTo
+ if (!EsTok
+if (!EsToke
+f (!EsToken
+ (!EsTokenS
+(!EsTokenSe
+!EsTokenSep
+EsTokenSepa
+sTokenSepar
+TokenSepara
+okenSeparad
+kenSeparado
+enSeparador
+nSeparador)
+Separador) 
+eparador) {
+parador) { 
+arador) { }
+rador) { } 
+ador) { } i
+dor) { } in
+or) { } int
+r) { } intE
+) { } intEs
+ { } intEst
+{ } intEsta
+ } intEstad
+} intEstado
+ intEstadoA
+intEstadoAc
+ntEstadoAct
+tEstadoActu
+EstadoActua
+stadoActual
+tadoActual 
+adoActual =
+doActual = 
+oActual = 0
+Actual = 0;
+ctual = 0; 
+tual = 0; b
+ual = 0; bo
+al = 0; boo
+l = 0; bool
+ = 0; boolB
+= 0; boolBa
+ 0; boolBan
+0; boolBand
+; boolBande
+ boolBander
+boolBandera
+oolBanderaL
+olBanderaLe
+lBanderaLee
+BanderaLee 
+anderaLee =
+nderaLee = 
+deraLee = F
+eraLee = FA
+raLee = FAL
+aLee = FALS
+Lee = FALSE
+ee = FALSE;
+e = FALSE; 
+ = FALSE; }
+= FALSE; } 
+ FALSE; } e
+FALSE; } el
+ALSE; } els
+LSE; } else
+SE; } else 
+E; } else i
+; } else if
+ } else if 
+} else if (
+ else if (i
+else if (in
+lse if (int
+se if (intE
+e if (intEs
+ if (intEst
+if (intEsta
+f (intEstad
+ (intEstado
+(intEstadoS
+intEstadoSi
+ntEstadoSig
+tEstadoSigu
+EstadoSigui
+stadoSiguie
+tadoSiguien
+adoSiguient
+doSiguiente
+oSiguiente 
+Siguiente =
+iguiente ==
+guiente == 
+uiente == S
+iente == SC
+ente == SCA
+nte == SCAN
+te == SCANN
+e == SCANNE
+ == SCANNER
+== SCANNER_
+= SCANNER_E
+ SCANNER_ER
+SCANNER_ERR
+CANNER_ERRO
+ANNER_ERROR
+NNER_ERROR)
+NER_ERROR) 
+ER_ERROR) {
+R_ERROR) { 
+_ERROR) { }
+ERROR) { } 
+RROR) { } e
+ROR) { } el
+OR) { } els
+R) { } else
+) { } else 
+ { } else {
+{ } else { 
+ } else { i
+} else { in
+ else { int
+else { intE
+lse { intEs
+se { intEst
+e { intEsta
+ { intEstad
+{ intEstado
+ intEstadoA
+intEstadoAc
+ntEstadoAct
+tEstadoActu
+EstadoActua
+stadoActual
+tadoActual 
+adoActual =
+doActual = 
+oActual = i
+Actual = in
+ctual = int
+tual = intE
+ual = intEs
+al = intEst
+l = intEsta
+ = intEstad
+= intEstado
+ intEstadoS
+intEstadoSi
+ntEstadoSig
+tEstadoSigu
+EstadoSigui
+stadoSiguie
+tadoSiguien
+adoSiguient
+doSiguiente
+oSiguiente;
+Siguiente; 
+iguiente; }
+guiente; } 
+uiente; } }
+iente; } } 
+ente; } } w
+nte; } } wh
+te; } } whi
+e; } } whil
+; } } while
+ } } while 
+} } while (
+ } while (c
+} while (c 
+ while (c !
+while (c !=
+hile (c != 
+ile (c != E
+le (c != EO
+e (c != EOF
+ (c != EOF)
+(c != EOF);
+c != EOF); 
+ != EOF); }
+!= EOF); } 
+= EOF); } }
+ EOF); } } 
+EOF); } } i
+OF); } } in
+F); } } int
+); } } int 
+; } } int i
+ } } int in
+} } int int
+ } int int 
+} int int i
+ int int in
+int int int
+nt int intS
+t int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { i
+boloT) { if
+oloT) { if(
+loT) { if(p
+oT) { if(pt
+T) { if(ptr
+) { if(ptrC
+ { if(ptrCu
+{ if(ptrCur
+ if(ptrCurr
+if(ptrCurre
+f(ptrCurren
+(ptrCurrent
+ptrCurrentT
+trCurrentTo
+rCurrentTok
+CurrentToke
+urrentToken
+rrentTokeni
+rentTokenin
+entTokenint
+ntTokenintT
+tTokenintTo
+TokenintTok
+okenintToke
+kenintToken
+enintTokenC
+nintTokenCo
+intTokenCod
+ntTokenCodi
+tTokenCodig
+TokenCodigo
+okenCodigo 
+kenCodigo =
+enCodigo ==
+nCodigo == 
+Codigo == i
+odigo == in
+digo == int
+igo == intS
+go == intSi
+o == intSim
+ == intSimb
+== intSimbo
+= intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { r
+boloT) { re
+oloT) { ret
+loT) { retu
+oT) { retur
+T) { return
+) { return 
+ { return T
+{ return TR
+ return TRU
+return TRUE
+eturn TRUE;
+turn TRUE; 
+urn TRUE; }
+rn TRUE; }e
+n TRUE; }el
+ TRUE; }els
+TRUE; }else
+RUE; }else{
+UE; }else{ 
+E; }else{ r
+; }else{ re
+ }else{ ret
+}else{ retu
+else{ retur
+lse{ return
+se{ return 
+e{ return F
+{ return FA
+ return FAL
+return FALS
+eturn FALSE
+turn FALSE;
+urn FALSE; 
+rn FALSE; }
+n FALSE; } 
+ FALSE; } }
+FALSE; } } 
+ALSE; } } v
+LSE; } } vo
+SE; } } voi
+E; } } void
+; } } void 
+ } } void E
+} } void Ex
+ } void Exp
+} void Expe
+ void Expec
+void Expect
+oid Expect(
+id Expect(i
+d Expect(in
+ Expect(int
+Expect(int 
+xpect(int i
+pect(int in
+ect(int int
+ct(int intS
+t(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { i
+boloT) { if
+oloT) { if(
+loT) { if(i
+oT) { if(in
+T) { if(int
+) { if(intS
+ { if(intSi
+{ if(intSim
+ if(intSimb
+if(intSimbo
+f(intSimbol
+(intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT))
+SimboloT)) 
+imboloT)) {
+mboloT)) { 
+boloT)) { p
+oloT)) { pt
+loT)) { ptr
+oT)) { ptrC
+T)) { ptrCu
+)) { ptrCur
+) { ptrCurr
+ { ptrCurre
+{ ptrCurren
+ ptrCurrent
+ptrCurrentT
+trCurrentTo
+rCurrentTok
+CurrentToke
+urrentToken
+rrentToken 
+rentToken =
+entToken = 
+ntToken = p
+tToken = pt
+Token = ptr
+oken = ptrC
+ken = ptrCu
+en = ptrCur
+n = ptrCurr
+ = ptrCurre
+= ptrCurren
+ ptrCurrent
+ptrCurrentT
+trCurrentTo
+rCurrentTok
+CurrentToke
+urrentToken
+rrentTokenp
+rentTokenpt
+entTokenptr
+ntTokenptrS
+tTokenptrSi
+TokenptrSig
+okenptrSig;
+kenptrSig; 
+enptrSig; }
+nptrSig; }e
+ptrSig; }el
+trSig; }els
+rSig; }else
+Sig; }else{
+ig; }else{ 
+g; }else{ b
+; }else{ bo
+ }else{ bol
+}else{ bolP
+else{ bolPD
+lse{ bolPDR
+se{ bolPDRC
+e{ bolPDRCE
+{ bolPDRCEr
+ bolPDRCErr
+bolPDRCErro
+olPDRCError
+lPDRCError=
+PDRCError=T
+DRCError=TR
+RCError=TRU
+CError=TRUE
+Error=TRUE;
+rror=TRUE; 
+ror=TRUE; }
+or=TRUE; } 
+r=TRUE; } }
+=TRUE; } } 
+TRUE; } } i
+RUE; } } in
+UE; } } int
+E; } } int 
+; } } int i
+ } } int in
+} } int int
+ } int int 
+} int int i
+ int int in
+int int int
+nt int intS
+t int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloN
+ntSimboloNT
+tSimboloNT)
+SimboloNT) 
+imboloNT) {
+mboloNT) { 
+boloNT) { i
+oloNT) { in
+loNT) { int
+oNT) { int 
+NT) { int b
+T) { int bo
+) { int bol
+ { int bolR
+{ int bolRe
+ int bolRes
+int bolRes 
+nt bolRes =
+t bolRes = 
+ bolRes = F
+bolRes = FA
+olRes = FAL
+lRes = FALS
+Res = FALSE
+es = FALSE;
+s = FALSE; 
+ = FALSE; s
+= FALSE; sw
+ FALSE; swi
+FALSE; swit
+ALSE; switc
+LSE; switch
+SE; switch(
+E; switch(i
+; switch(in
+ switch(int
+switch(intS
+witch(intSi
+itch(intSim
+tch(intSimb
+ch(intSimbo
+h(intSimbol
+(intSimbolo
+intSimboloN
+ntSimboloNT
+tSimboloNT)
+SimboloNT) 
+imboloNT) {
+mboloNT) { 
+boloNT) { c
+oloNT) { ca
+loNT) { cas
+oNT) { case
+NT) { case 
+T) { case S
+) { case SI
+ { case SIM
+{ case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_S
+TERMINAL_S:
+ERMINAL_S: 
+RMINAL_S: i
+MINAL_S: if
+INAL_S: if(
+NAL_S: if(S
+AL_S: if(SI
+L_S: if(SIM
+_S: if(SIMB
+S: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_PR
+ERMINAL_PRO
+RMINAL_PROG
+MINAL_PROGR
+INAL_PROGRA
+NAL_PROGRAM
+AL_PROGRAMA
+L_PROGRAMA)
+_PROGRAMA) 
+PROGRAMA) {
+ROGRAMA) {b
+OGRAMA) {bo
+GRAMA) {bol
+RAMA) {bolR
+AMA) {bolRe
+MA) {bolRes
+A) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} c
+ break;} ca
+break;} cas
+reak;} case
+eak;} case 
+ak;} case S
+k;} case SI
+;} case SIM
+} case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Int
+RMINAL_Intr
+MINAL_Intru
+INAL_Intruc
+NAL_Intrucc
+AL_Intrucci
+L_Intruccio
+_Intruccion
+IntruccionC
+ntruccionCo
+truccionCom
+ruccionComp
+uccionCompu
+ccionCompue
+cionCompues
+ionCompuest
+onCompuesta
+nCompuesta:
+Compuesta: 
+ompuesta: i
+mpuesta: if
+puesta: if(
+uesta: if(S
+esta: if(SI
+sta: if(SIM
+ta: if(SIMB
+a: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreP
+INAL_AbrePa
+NAL_AbrePar
+AL_AbrePare
+L_AbreParen
+_AbreParent
+AbreParente
+breParentes
+reParentesi
+eParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraP
+AL_CierraPa
+L_CierraPar
+_CierraPare
+CierraParen
+ierraParent
+erraParente
+rraParentes
+raParentesi
+aParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_B
+TERMINAL_Bl
+ERMINAL_Blo
+RMINAL_Bloq
+MINAL_Bloqu
+INAL_Bloque
+NAL_BloqueI
+AL_BloqueIn
+L_BloqueIns
+_BloqueInst
+BloqueInstr
+loqueInstru
+oqueInstruc
+queInstrucc
+ueInstrucci
+eInstruccio
+Instruccion
+nstruccione
+strucciones
+trucciones:
+rucciones: 
+ucciones: i
+cciones: if
+ciones: if(
+iones: if(S
+ones: if(SI
+nes: if(SIM
+es: if(SIMB
+s: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_Ig
+ERMINAL_Igu
+RMINAL_Igua
+MINAL_Igual
+INAL_Igual)
+NAL_Igual) 
+AL_Igual) {
+L_Igual) {b
+_Igual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_If
+ERMINAL_If)
+RMINAL_If) 
+MINAL_If) {
+INAL_If) {b
+NAL_If) {bo
+AL_If) {bol
+L_If) {bolR
+_If) {bolRe
+If) {bolRes
+f) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_W
+TERMINAL_Wh
+ERMINAL_Whi
+RMINAL_Whil
+MINAL_While
+INAL_While)
+NAL_While) 
+AL_While) {
+L_While) {b
+_While) {bo
+While) {bol
+hile) {bolR
+ile) {bolRe
+le) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_F
+TERMINAL_Fo
+ERMINAL_For
+RMINAL_For)
+MINAL_For) 
+INAL_For) {
+NAL_For) {b
+AL_For) {bo
+L_For) {bol
+_For) {bolR
+For) {bolRe
+or) {bolRes
+r) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_B
+TERMINAL_Br
+ERMINAL_Bre
+RMINAL_Brea
+MINAL_Break
+INAL_Break)
+NAL_Break) 
+AL_Break) {
+L_Break) {b
+_Break) {bo
+Break) {bol
+reak) {bolR
+eak) {bolRe
+ak) {bolRes
+k) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_DO
+ERMINAL_DO)
+RMINAL_DO) 
+MINAL_DO) {
+INAL_DO) {b
+NAL_DO) {bo
+AL_DO) {bol
+L_DO) {bolR
+_DO) {bolRe
+DO) {bolRes
+O) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccion:
+struccion: 
+truccion: i
+ruccion: if
+uccion: if(
+ccion: if(S
+cion: if(SI
+ion: if(SIM
+on: if(SIMB
+n: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_Ig
+ERMINAL_Igu
+RMINAL_Igua
+MINAL_Igual
+INAL_Igual)
+NAL_Igual) 
+AL_Igual) {
+L_Igual) {b
+_Igual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_If
+ERMINAL_If)
+RMINAL_If) 
+MINAL_If) {
+INAL_If) {b
+NAL_If) {bo
+AL_If) {bol
+L_If) {bolR
+_If) {bolRe
+If) {bolRes
+f) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_W
+TERMINAL_Wh
+ERMINAL_Whi
+RMINAL_Whil
+MINAL_While
+INAL_While)
+NAL_While) 
+AL_While) {
+L_While) {b
+_While) {bo
+While) {bol
+hile) {bolR
+ile) {bolRe
+le) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_F
+TERMINAL_Fo
+ERMINAL_For
+RMINAL_For)
+MINAL_For) 
+INAL_For) {
+NAL_For) {b
+AL_For) {bo
+L_For) {bol
+_For) {bolR
+For) {bolRe
+or) {bolRes
+r) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_B
+TERMINAL_Br
+ERMINAL_Bre
+RMINAL_Brea
+MINAL_Break
+INAL_Break)
+NAL_Break) 
+AL_Break) {
+L_Break) {b
+_Break) {bo
+Break) {bol
+reak) {bolR
+eak) {bolRe
+ak) {bolRes
+k) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_DO
+ERMINAL_DO)
+RMINAL_DO) 
+MINAL_DO) {
+INAL_DO) {b
+NAL_DO) {bo
+AL_DO) {bol
+L_DO) {bolR
+_DO) {bolRe
+DO) {bolRes
+O) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionA
+struccionAs
+truccionAsi
+ruccionAsig
+uccionAsign
+ccionAsigna
+cionAsignac
+ionAsignaci
+onAsignacio
+nAsignacion
+Asignacion:
+signacion: 
+ignacion: i
+gnacion: if
+nacion: if(
+acion: if(S
+cion: if(SI
+ion: if(SIM
+on: if(SIMB
+n: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_ID
+ERMINAL_ID)
+RMINAL_ID) 
+MINAL_ID) {
+INAL_ID) {b
+NAL_ID) {bo
+AL_ID) {bol
+L_ID) {bolR
+_ID) {bolRe
+ID) {bolRes
+D) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_Ig
+ERMINAL_Igu
+RMINAL_Igua
+MINAL_Igual
+INAL_Igual)
+NAL_Igual) 
+AL_Igual) {
+L_Igual) {b
+_Igual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionI
+struccionIf
+truccionIf:
+ruccionIf: 
+uccionIf: i
+ccionIf: if
+cionIf: if(
+ionIf: if(S
+onIf: if(SI
+nIf: if(SIM
+If: if(SIMB
+f: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_If
+ERMINAL_If)
+RMINAL_If) 
+MINAL_If) {
+INAL_If) {b
+NAL_If) {bo
+AL_If) {bol
+L_If) {bolR
+_If) {bolRe
+If) {bolRes
+f) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreP
+INAL_AbrePa
+NAL_AbrePar
+AL_AbrePare
+L_AbreParen
+_AbreParent
+AbreParente
+breParentes
+reParentesi
+eParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraP
+AL_CierraPa
+L_CierraPar
+_CierraPare
+CierraParen
+ierraParent
+erraParente
+rraParentes
+raParentesi
+aParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_El
+ERMINAL_Els
+RMINAL_Else
+MINAL_Else)
+INAL_Else) 
+NAL_Else) {
+AL_Else) {b
+L_Else) {bo
+_Else) {bol
+Else) {bolR
+lse) {bolRe
+se) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionW
+struccionWh
+truccionWhi
+ruccionWhil
+uccionWhile
+ccionWhile:
+cionWhile: 
+ionWhile: i
+onWhile: if
+nWhile: if(
+While: if(S
+hile: if(SI
+ile: if(SIM
+le: if(SIMB
+e: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_W
+TERMINAL_Wh
+ERMINAL_Whi
+RMINAL_Whil
+MINAL_While
+INAL_While)
+NAL_While) 
+AL_While) {
+L_While) {b
+_While) {bo
+While) {bol
+hile) {bolR
+ile) {bolRe
+le) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreP
+INAL_AbrePa
+NAL_AbrePar
+AL_AbrePare
+L_AbreParen
+_AbreParent
+AbreParente
+breParentes
+reParentesi
+eParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraP
+AL_CierraPa
+L_CierraPar
+_CierraPare
+CierraParen
+ierraParent
+erraParente
+rraParentes
+raParentesi
+aParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionI
+struccionIm
+truccionImp
+ruccionImpr
+uccionImpri
+ccionImprim
+cionImprime
+ionImprime:
+onImprime: 
+nImprime: i
+Imprime: if
+mprime: if(
+prime: if(S
+rime: if(SI
+ime: if(SIM
+me: if(SIMB
+e: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Int
+RMINAL_Inte
+MINAL_Inter
+INAL_Interr
+NAL_Interro
+AL_Interrog
+L_Interroga
+_Interrogac
+Interrogaci
+nterrogacio
+terrogacion
+errogacion)
+rrogacion) 
+rogacion) {
+ogacion) {b
+gacion) {bo
+acion) {bol
+cion) {bolR
+ion) {bolRe
+on) {bolRes
+n) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exp
+RMINAL_Expr
+MINAL_Expre
+INAL_Expres
+NAL_Expresi
+AL_Expresio
+L_Expresion
+_Expresion:
+Expresion: 
+xpresion: i
+presion: if
+resion: if(
+esion: if(S
+sion: if(SI
+ion: if(SIM
+on: if(SIMB
+n: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_An
+ERMINAL_And
+RMINAL_And)
+MINAL_And) 
+INAL_And) {
+NAL_And) {b
+AL_And) {bo
+L_And) {bol
+_And) {bolR
+And) {bolRe
+nd) {bolRes
+d) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Or
+ERMINAL_Or)
+RMINAL_Or) 
+MINAL_Or) {
+INAL_Or) {b
+NAL_Or) {bo
+AL_Or) {bol
+L_Or) {bolR
+_Or) {bolRe
+Or) {bolRes
+r) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exp
+RMINAL_ExpR
+MINAL_ExpRe
+INAL_ExpRel
+NAL_ExpRela
+AL_ExpRelac
+L_ExpRelaci
+_ExpRelacio
+ExpRelacion
+xpRelaciona
+pRelacional
+Relacional:
+elacional: 
+lacional: i
+acional: if
+cional: if(
+ional: if(S
+onal: if(SI
+nal: if(SIM
+al: if(SIMB
+l: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_May
+RMINAL_Mayo
+MINAL_Mayor
+INAL_MayorQ
+NAL_MayorQu
+AL_MayorQue
+L_MayorQue)
+_MayorQue) 
+MayorQue) {
+ayorQue) {b
+yorQue) {bo
+orQue) {bol
+rQue) {bolR
+Que) {bolRe
+ue) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menor
+INAL_MenorQ
+NAL_MenorQu
+AL_MenorQue
+L_MenorQue)
+_MenorQue) 
+MenorQue) {
+enorQue) {b
+norQue) {bo
+orQue) {bol
+rQue) {bolR
+Que) {bolRe
+ue) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_May
+RMINAL_Mayo
+MINAL_Mayor
+INAL_MayorI
+NAL_MayorIg
+AL_MayorIgu
+L_MayorIgua
+_MayorIgual
+MayorIgual)
+ayorIgual) 
+yorIgual) {
+orIgual) {b
+rIgual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menor
+INAL_MenorI
+NAL_MenorIg
+AL_MenorIgu
+L_MenorIgua
+_MenorIgual
+MenorIgual)
+enorIgual) 
+norIgual) {
+orIgual) {b
+rIgual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_Id
+ERMINAL_Ide
+RMINAL_Iden
+MINAL_Ident
+INAL_Identi
+NAL_Identic
+AL_Identico
+L_Identico)
+_Identico) 
+Identico) {
+dentico) {b
+entico) {bo
+ntico) {bol
+tico) {bolR
+ico) {bolRe
+co) {bolRes
+o) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_Di
+ERMINAL_Dif
+RMINAL_Dife
+MINAL_Difer
+INAL_Difere
+NAL_Diferen
+AL_Diferent
+L_Diferente
+_Diferente)
+Diferente) 
+iferente) {
+ferente) {b
+erente) {bo
+rente) {bol
+ente) {bolR
+nte) {bolRe
+te) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exp
+RMINAL_ExpC
+MINAL_ExpCo
+INAL_ExpCom
+NAL_ExpComp
+AL_ExpCompu
+L_ExpCompue
+_ExpCompues
+ExpCompuest
+xpCompuesta
+pCompuesta:
+Compuesta: 
+ompuesta: i
+mpuesta: if
+puesta: if(
+uesta: if(S
+esta: if(SI
+sta: if(SIM
+ta: if(SIMB
+a: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_Mas
+RMINAL_Mas)
+MINAL_Mas) 
+INAL_Mas) {
+NAL_Mas) {b
+AL_Mas) {bo
+L_Mas) {bol
+_Mas) {bolR
+Mas) {bolRe
+as) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menos
+INAL_Menos)
+NAL_Menos) 
+AL_Menos) {
+L_Menos) {b
+_Menos) {bo
+Menos) {bol
+enos) {bolR
+nos) {bolRe
+os) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exp
+RMINAL_ExpS
+MINAL_ExpSi
+INAL_ExpSim
+NAL_ExpSimp
+AL_ExpSimpl
+L_ExpSimple
+_ExpSimple:
+ExpSimple: 
+xpSimple: i
+pSimple: if
+Simple: if(
+imple: if(S
+mple: if(SI
+ple: if(SIM
+le: if(SIMB
+e: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_As
+ERMINAL_Ast
+RMINAL_Aste
+MINAL_Aster
+INAL_Asteri
+NAL_Asteris
+AL_Asterisc
+L_Asterisco
+_Asterisco)
+Asterisco){
+sterisco){b
+terisco){bo
+erisco){bol
+risco){bolR
+isco){bolRe
+sco){bolRes
+co){bolRes=
+o){bolRes=T
+){bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_T
+TERMINAL_Te
+ERMINAL_Ter
+RMINAL_Term
+MINAL_Termi
+INAL_Termin
+NAL_Termino
+AL_Termino:
+L_Termino: 
+_Termino: i
+Termino: if
+ermino: if(
+rmino: if(S
+mino: if(SI
+ino: if(SIM
+no: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_N
+TERMINAL_Nu
+ERMINAL_Num
+RMINAL_NumE
+MINAL_NumEn
+INAL_NumEnt
+NAL_NumEnt)
+AL_NumEnt) 
+L_NumEnt) {
+_NumEnt) {b
+NumEnt) {bo
+umEnt) {bol
+mEnt) {bolR
+Ent) {bolRe
+nt) {bolRes
+t) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_N
+TERMINAL_Nu
+ERMINAL_Num
+RMINAL_NumD
+MINAL_NumDe
+INAL_NumDec
+NAL_NumDec)
+AL_NumDec) 
+L_NumDec) {
+_NumDec) {b
+NumDec) {bo
+umDec) {bol
+mDec) {bolR
+Dec) {bolRe
+ec) {bolRes
+c) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_ID
+ERMINAL_ID)
+RMINAL_ID) 
+MINAL_ID) {
+INAL_ID) {b
+NAL_ID) {bo
+AL_ID) {bol
+L_ID) {bolR
+_ID) {bolRe
+ID) {bolRes
+D) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreP
+INAL_AbrePa
+NAL_AbrePar
+AL_AbrePare
+L_AbreParen
+_AbreParent
+AbreParente
+breParentes
+reParentesi
+eParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraP
+AL_CierraPa
+L_CierraPar
+_CierraPare
+CierraParen
+ierraParent
+erraParente
+rraParentes
+raParentesi
+aParentesis
+Parentesis)
+arentesis) 
+rentesis) {
+entesis) {b
+ntesis) {bo
+tesis) {bol
+esis) {bolR
+sis) {bolRe
+is) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exc
+RMINAL_Excl
+MINAL_Excla
+INAL_Exclam
+NAL_Exclama
+AL_Exclamac
+L_Exclamaci
+_Exclamacio
+Exclamacion
+xclamacion)
+clamacion) 
+lamacion) {
+amacion) {b
+macion) {bo
+acion) {bol
+cion) {bolR
+ion) {bolRe
+on) {bolRes
+n) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Op
+ERMINAL_OpA
+RMINAL_OpAd
+MINAL_OpAdi
+INAL_OpAdit
+NAL_OpAditi
+AL_OpAditiv
+L_OpAditivo
+_OpAditivo:
+OpAditivo: 
+pAditivo: i
+Aditivo: if
+ditivo: if(
+itivo: if(S
+tivo: if(SI
+ivo: if(SIM
+vo: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_Mas
+RMINAL_Mas)
+MINAL_Mas){
+INAL_Mas){b
+NAL_Mas){bo
+AL_Mas){bol
+L_Mas){bolR
+_Mas){bolRe
+Mas){bolRes
+as){bolRes=
+s){bolRes=T
+){bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menos
+INAL_Menos)
+NAL_Menos) 
+AL_Menos) {
+L_Menos) {b
+_Menos) {bo
+Menos) {bol
+enos) {bolR
+nos) {bolRe
+os) {bolRes
+s) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Op
+ERMINAL_OpM
+RMINAL_OpMu
+MINAL_OpMul
+INAL_OpMult
+NAL_OpMulti
+AL_OpMultip
+L_OpMultipl
+_OpMultipli
+OpMultiplic
+pMultiplica
+Multiplicat
+ultiplicati
+ltiplicativ
+tiplicativo
+iplicativo:
+plicativo: 
+licativo: i
+icativo: if
+cativo: if(
+ativo: if(S
+tivo: if(SI
+ivo: if(SIM
+vo: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_As
+ERMINAL_Ast
+RMINAL_Aste
+MINAL_Aster
+INAL_Asteri
+NAL_Asteris
+AL_Asterisc
+L_Asterisco
+_Asterisco)
+Asterisco) 
+sterisco) {
+terisco) {b
+erisco) {bo
+risco) {bol
+isco) {bolR
+sco) {bolRe
+co) {bolRes
+o) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_Di
+ERMINAL_Dia
+RMINAL_Diag
+MINAL_Diago
+INAL_Diagon
+NAL_Diagona
+AL_Diagonal
+L_Diagonal)
+_Diagonal) 
+Diagonal) {
+iagonal) {b
+agonal) {bo
+gonal) {bol
+onal) {bolR
+nal) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Op
+ERMINAL_OpR
+RMINAL_OpRe
+MINAL_OpRel
+INAL_OpRela
+NAL_OpRelac
+AL_OpRelaci
+L_OpRelacio
+_OpRelacion
+OpRelaciona
+pRelacional
+Relacional:
+elacional: 
+lacional: i
+acional: if
+cional: if(
+ional: if(S
+onal: if(SI
+nal: if(SIM
+al: if(SIMB
+l: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_May
+RMINAL_Mayo
+MINAL_Mayor
+INAL_MayorQ
+NAL_MayorQu
+AL_MayorQue
+L_MayorQue)
+_MayorQue) 
+MayorQue) {
+ayorQue) {b
+yorQue) {bo
+orQue) {bol
+rQue) {bolR
+Que) {bolRe
+ue) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menor
+INAL_MenorQ
+NAL_MenorQu
+AL_MenorQue
+L_MenorQue)
+_MenorQue) 
+MenorQue) {
+enorQue) {b
+norQue) {bo
+orQue) {bol
+rQue) {bolR
+Que) {bolRe
+ue) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_May
+RMINAL_Mayo
+MINAL_Mayor
+INAL_MayorI
+NAL_MayorIg
+AL_MayorIgu
+L_MayorIgua
+_MayorIgual
+MayorIgual)
+ayorIgual) 
+yorIgual) {
+orIgual) {b
+rIgual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Me
+ERMINAL_Men
+RMINAL_Meno
+MINAL_Menor
+INAL_MenorI
+NAL_MenorIg
+AL_MenorIgu
+L_MenorIgua
+_MenorIgual
+MenorIgual)
+enorIgual) 
+norIgual) {
+orIgual) {b
+rIgual) {bo
+Igual) {bol
+gual) {bolR
+ual) {bolRe
+al) {bolRes
+l) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_Id
+ERMINAL_Ide
+RMINAL_Iden
+MINAL_Ident
+INAL_Identi
+NAL_Identic
+AL_Identico
+L_Identico)
+_Identico) 
+Identico) {
+dentico) {b
+entico) {bo
+ntico) {bol
+tico) {bolR
+ico) {bolRe
+co) {bolRes
+o) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_Di
+ERMINAL_Dif
+RMINAL_Dife
+MINAL_Difer
+INAL_Difere
+NAL_Diferen
+AL_Diferent
+L_Diferente
+_Diferente)
+Diferente) 
+iferente) {
+ferente) {b
+erente) {bo
+rente) {bol
+ente) {bolR
+nte) {bolRe
+te) {bolRes
+e) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Op
+ERMINAL_OpL
+RMINAL_OpLo
+MINAL_OpLog
+INAL_OpLogi
+NAL_OpLogic
+AL_OpLogico
+L_OpLogico:
+_OpLogico: 
+OpLogico: i
+pLogico: if
+Logico: if(
+ogico: if(S
+gico: if(SI
+ico: if(SIM
+co: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_An
+ERMINAL_And
+RMINAL_And)
+MINAL_And) 
+INAL_And) {
+NAL_And) {b
+AL_And) {bo
+L_And) {bol
+_And) {bolR
+And) {bolRe
+nd) {bolRes
+d) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Or
+ERMINAL_Or)
+RMINAL_Or) 
+MINAL_Or) {
+INAL_Or) {b
+NAL_Or) {bo
+AL_Or) {bol
+L_Or) {bolR
+_Or) {bolRe
+Or) {bolRes
+r) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_O
+TERMINAL_Op
+ERMINAL_OpP
+RMINAL_OpPo
+MINAL_OpPon
+INAL_OpPon:
+NAL_OpPon: 
+AL_OpPon: i
+L_OpPon: if
+_OpPon: if(
+OpPon: if(S
+pPon: if(SI
+Pon: if(SIM
+on: if(SIMB
+n: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_Po
+ERMINAL_Pot
+RMINAL_Pote
+MINAL_Poten
+INAL_Potenc
+NAL_Potenci
+AL_Potencia
+L_Potencia)
+_Potencia) 
+Potencia) {
+otencia) {b
+tencia) {bo
+encia) {bol
+ncia) {bolR
+cia) {bolRe
+ia) {bolRes
+a) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_N
+TERMINAL_Nu
+ERMINAL_Num
+RMINAL_Nume
+MINAL_Numer
+INAL_Numero
+NAL_Numero:
+AL_Numero: 
+L_Numero: i
+_Numero: if
+Numero: if(
+umero: if(S
+mero: if(SI
+ero: if(SIM
+ro: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_N
+TERMINAL_Nu
+ERMINAL_Num
+RMINAL_NumE
+MINAL_NumEn
+INAL_NumEnt
+NAL_NumEnt)
+AL_NumEnt) 
+L_NumEnt) {
+_NumEnt) {b
+NumEnt) {bo
+umEnt) {bol
+mEnt) {bolR
+Ent) {bolRe
+nt) {bolRes
+t) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_N
+TERMINAL_Nu
+ERMINAL_Num
+RMINAL_NumD
+MINAL_NumDe
+INAL_NumDec
+NAL_NumDec)
+AL_NumDec) 
+L_NumDec) {
+_NumDec) {b
+NumDec) {bo
+umDec) {bol
+mDec) {bolR
+Dec) {bolRe
+ec) {bolRes
+c) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionF
+struccionFo
+truccionFor
+ruccionFor:
+uccionFor: 
+ccionFor: i
+cionFor: if
+ionFor: if(
+onFor: if(S
+nFor: if(SI
+For: if(SIM
+or: if(SIMB
+r: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_F
+TERMINAL_Fo
+ERMINAL_For
+RMINAL_For)
+MINAL_For) 
+INAL_For) {
+NAL_For) {b
+AL_For) {bo
+L_For) {bol
+_For) {bolR
+For) {bolRe
+or) {bolRes
+r) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionB
+struccionBr
+truccionBre
+ruccionBrea
+uccionBreak
+ccionBreak:
+cionBreak: 
+ionBreak: i
+onBreak: if
+nBreak: if(
+Break: if(S
+reak: if(SI
+eak: if(SIM
+ak: if(SIMB
+k: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_B
+TERMINAL_Br
+ERMINAL_Bre
+RMINAL_Brea
+MINAL_Break
+INAL_Break)
+NAL_Break) 
+AL_Break) {
+L_Break) {b
+_Break) {bo
+Break) {bol
+reak) {bolR
+eak) {bolRe
+ak) {bolRes
+k) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} i
+ break;} if
+break;} if(
+reak;} if(S
+eak;} if(SI
+ak;} if(SIM
+k;} if(SIMB
+;} if(SIMBO
+} if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_Pu
+ERMINAL_Pun
+RMINAL_Punt
+MINAL_Punto
+INAL_PuntoY
+NAL_PuntoYC
+AL_PuntoYCo
+L_PuntoYCom
+_PuntoYComa
+PuntoYComa)
+untoYComa) 
+ntoYComa) {
+toYComa) {b
+oYComa) {bo
+YComa) {bol
+Coma) {bolR
+oma) {bolRe
+ma) {bolRes
+a) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionD
+struccionDo
+truccionDo:
+ruccionDo: 
+uccionDo: i
+ccionDo: if
+cionDo: if(
+ionDo: if(S
+onDo: if(SI
+nDo: if(SIM
+Do: if(SIMB
+o: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_DO
+ERMINAL_DO)
+RMINAL_DO) 
+MINAL_DO) {
+INAL_DO) {b
+NAL_DO) {bo
+AL_DO) {bol
+L_DO) {bolR
+_DO) {bolRe
+DO) {bolRes
+O) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; c
+} break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_N
+ SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionS
+struccionSe
+truccionSel
+ruccionSele
+uccionSelec
+ccionSelect
+cionSelect:
+ionSelect: 
+onSelect: i
+nSelect: if
+Select: if(
+elect: if(S
+lect: if(SI
+ect: if(SIM
+ct: if(SIMB
+t: if(SIMBO
+: if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_S
+TERMINAL_Se
+ERMINAL_Sel
+RMINAL_Sele
+MINAL_Selec
+INAL_Select
+NAL_Select)
+AL_Select) 
+L_Select) {
+_Select) {b
+Select) {bo
+elect) {bol
+lect) {bolR
+ect) {bolRe
+ct) {bolRes
+t) {bolRes=
+) {bolRes=T
+ {bolRes=TR
+{bolRes=TRU
+bolRes=TRUE
+olRes=TRUE;
+lRes=TRUE; 
+Res=TRUE; b
+es=TRUE; br
+s=TRUE; bre
+=TRUE; brea
+TRUE; break
+RUE; break;
+UE; break;}
+E; break;} 
+; break;} b
+ break;} br
+break;} bre
+reak;} brea
+eak;} break
+ak;} break;
+k;} break; 
+;} break; }
+} break; } 
+ break; } r
+break; } re
+reak; } ret
+eak; } retu
+ak; } retur
+k; } return
+; } return 
+ } return b
+} return bo
+ return bol
+return bolR
+eturn bolRe
+turn bolRes
+urn bolRes;
+rn bolRes; 
+n bolRes; }
+ bolRes; } 
+bolRes; } v
+olRes; } vo
+lRes; } voi
+Res; } void
+es; } void 
+s; } void s
+; } void s 
+ } void s (
+} void s ()
+ void s () 
+void s () {
+oid s () { 
+id s () { }
+d s () { } 
+ s () { } v
+s () { } vo
+ () { } voi
+() { } void
+) { } void 
+ { } void I
+{ } void In
+ } void Ins
+} void Inst
+ void Instr
+void Instru
+oid Instruc
+id Instrucc
+d Instrucci
+ Instruccio
+Instruccion
+nstruccionC
+struccionCo
+truccionCom
+ruccionComp
+uccionCompu
+ccionCompue
+cionCompues
+ionCompuest
+onCompuesta
+nCompuesta(
+Compuesta()
+ompuesta() 
+mpuesta() {
+puesta() { 
+uesta() { i
+esta() { if
+sta() { if(
+ta() { if(!
+a() { if(!b
+() { if(!bo
+) { if(!bol
+ { if(!bolP
+{ if(!bolPD
+ if(!bolPDR
+if(!bolPDRC
+f(!bolPDRCE
+(!bolPDRCEr
+!bolPDRCErr
+bolPDRCErro
+olPDRCError
+lPDRCError)
+PDRCError) 
+DRCError) {
+RCError) { 
+CError) { }
+Error) { } 
+rror) { } }
+ror) { } } 
+or) { } } v
+r) { } } vo
+) { } } voi
+ { } } void
+{ } } void 
+ } } void B
+} } void Bl
+ } void Blo
+} void Bloq
+ void Bloqu
+void Bloque
+oid BloqueI
+id BloqueIn
+d BloqueIns
+ BloqueInst
+BloqueInstr
+loqueInstru
+oqueInstruc
+queInstrucc
+ueInstrucci
+eInstruccio
+Instruccion
+nstruccione
+strucciones
+trucciones(
+rucciones()
+ucciones() 
+cciones() {
+ciones() { 
+iones() { i
+ones() { if
+nes() { if(
+es() { if(!
+s() { if(!b
+() { if(!bo
+) { if(!bol
+ { if(!bolP
+{ if(!bolPD
+ if(!bolPDR
+if(!bolPDRC
+f(!bolPDRCE
+(!bolPDRCEr
+!bolPDRCErr
+bolPDRCErro
+olPDRCError
+lPDRCError)
+PDRCError) 
+DRCError) {
+RCError) { 
+CError) { w
+Error) { wh
+rror) { whi
+ror) { whil
+or) { while
+r) { while 
+) { while (
+ { while (S
+{ while (SI
+ while (SIM
+while (SIMB
+hile (SIMBO
+ile (SIMBOL
+le (SIMBOLO
+e (SIMBOLO_
+ (SIMBOLO_T
+(SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_Pu
+ERMINAL_Pun
+RMINAL_Punt
+MINAL_Punto
+INAL_PuntoY
+NAL_PuntoYC
+AL_PuntoYCo
+L_PuntoYCom
+_PuntoYComa
+PuntoYComa)
+untoYComa))
+ntoYComa)) 
+toYComa)) {
+oYComa)) { 
+YComa)) { }
+Coma)) { } 
+oma)) { } }
+ma)) { } } 
+a)) { } } }
+)) { } } } 
+) { } } } v
+ { } } } vo
+{ } } } voi
+ } } } void
+} } } void 
+ } } void I
+} } void In
+ } void Ins
+} void Inst
+ void Instr
+void Instru
+oid Instruc
+id Instrucc
+d Instrucci
+ Instruccio
+Instruccion
+nstruccion(
+struccion()
+truccion() 
+ruccion() {
+uccion() { 
+ccion() { i
+cion() { if
+ion() { if(
+on() { if(!
+n() { if(!b
+() { if(!bo
+) { if(!bol
+ { if(!bolP
+{ if(!bolPD
+ if(!bolPDR
+if(!bolPDRC
+f(!bolPDRCE
+(!bolPDRCEr
+!bolPDRCErr
+bolPDRCErro
+olPDRCError
+lPDRCError)
+PDRCError) 
+DRCError) {
+RCError) { 
+CError) { i
+Error) { if
+rror) { if(
+ror) { if(S
+or) { if(SI
+r) { if(SIM
+) { if(SIMB
+ { if(SIMBO
+{ if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionA
+struccionAs
+truccionAsi
+ruccionAsig
+uccionAsign
+ccionAsigna
+cionAsignac
+ionAsignaci
+onAsignacio
+nAsignacion
+Asignacion)
+signacion) 
+ignacion) {
+gnacion) { 
+nacion) { }
+acion) { } 
+cion) { } e
+ion) { } el
+on) { } els
+n) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if 
+} else if (
+ else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionI
+struccionIf
+truccionIf)
+ruccionIf) 
+uccionIf) {
+ccionIf) { 
+cionIf) { }
+ionIf) { } 
+onIf) { } e
+nIf) { } el
+If) { } els
+f) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if(
+} else if(S
+ else if(SI
+else if(SIM
+lse if(SIMB
+se if(SIMBO
+e if(SIMBOL
+ if(SIMBOLO
+if(SIMBOLO_
+f(SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionW
+struccionWh
+truccionWhi
+ruccionWhil
+uccionWhile
+ccionWhile)
+cionWhile) 
+ionWhile) {
+onWhile) { 
+nWhile) { }
+While) { } 
+hile) { } e
+ile) { } el
+le) { } els
+e) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if 
+} else if (
+ else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionI
+struccionIm
+truccionImp
+ruccionImpr
+uccionImpri
+ccionImprim
+cionImprime
+ionImprime)
+onImprime) 
+nImprime) {
+Imprime) { 
+mprime) { }
+prime) { } 
+rime) { } e
+ime) { } el
+me) { } els
+e) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if 
+} else if (
+ else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Int
+RMINAL_Intr
+MINAL_Intru
+INAL_Intruc
+NAL_Intrucc
+AL_Intrucci
+L_Intruccio
+_Intruccion
+IntruccionC
+ntruccionCo
+truccionCom
+ruccionComp
+uccionCompu
+ccionCompue
+cionCompues
+ionCompuest
+onCompuesta
+nCompuesta)
+Compuesta) 
+ompuesta) {
+mpuesta) { 
+puesta) { }
+uesta) { } 
+esta) { } e
+sta) { } el
+ta) { } els
+a) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if 
+} else if (
+ else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionF
+struccionFo
+truccionFor
+ruccionFor)
+uccionFor) 
+ccionFor) {
+cionFor) { 
+ionFor) { }
+onFor) { } 
+nFor) { } e
+For) { } el
+or) { } els
+r) { } else
+) { } else 
+ { } else i
+{ } else if
+ } else if 
+} else if (
+ else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionB
+struccionBr
+truccionBre
+ruccionBrea
+uccionBreak
+ccionBreak)
+cionBreak) 
+ionBreak) {
+onBreak) { 
+nBreak) { }
+Break) { }e
+reak) { }el
+eak) { }els
+ak) { }else
+k) { }else 
+) { }else i
+ { }else if
+{ }else if 
+ }else if (
+}else if (S
+else if (SI
+lse if (SIM
+se if (SIMB
+e if (SIMBO
+ if (SIMBOL
+if (SIMBOLO
+f (SIMBOLO_
+ (SIMBOLO_N
+(SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Ins
+RMINAL_Inst
+MINAL_Instr
+INAL_Instru
+NAL_Instruc
+AL_Instrucc
+L_Instrucci
+_Instruccio
+Instruccion
+nstruccionD
+struccionDo
+truccionDo)
+ruccionDo) 
+uccionDo) {
+ccionDo) { 
+cionDo) { }
+ionDo) { } 
+onDo) { } }
+nDo) { } } 
+Do) { } } }
+o) { } } } 
+) { } } } v
+ { } } } vo
+{ } } } voi
+ } } } void
+} } } void 
+ } } void p
+} } void pu
+ } void pus
+} void push
+ void pushL
+void pushLR
+oid pushLR(
+id pushLR(i
+d pushLR(in
+ pushLR(int
+pushLR(int 
+ushLR(int i
+shLR(int in
+hLR(int int
+LR(int intS
+R(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloTi
+tSimboloTip
+SimboloTipo
+imboloTipo,
+mboloTipo, 
+boloTipo, i
+oloTipo, in
+loTipo, int
+oTipo, int 
+Tipo, int i
+ipo, int in
+po, int int
+o, int intS
+, int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo,
+oloCodigo, 
+loCodigo, i
+oCodigo, in
+Codigo, int
+odigo, int 
+digo, int i
+igo, int in
+go, int int
+o, int intE
+, int intEs
+ int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado)
+intEstado) 
+ntEstado) {
+tEstado) { 
+Estado) { n
+stado) { nu
+tado) { nue
+ado) { nuev
+do) { nuevo
+o) { nuevoi
+) { nuevoin
+ { nuevoint
+{ nuevointS
+ nuevointSi
+nuevointSim
+uevointSimb
+evointSimbo
+vointSimbol
+ointSimbolo
+intSimboloT
+ntSimboloTi
+tSimboloTip
+SimboloTipo
+imboloTipo 
+mboloTipo =
+boloTipo = 
+oloTipo = i
+loTipo = in
+oTipo = int
+Tipo = intS
+ipo = intSi
+po = intSim
+o = intSimb
+ = intSimbo
+= intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloTi
+tSimboloTip
+SimboloTipo
+imboloTipo;
+mboloTipo; 
+boloTipo; n
+oloTipo; nu
+loTipo; nue
+oTipo; nuev
+Tipo; nuevo
+ipo; nuevoi
+po; nuevoin
+o; nuevoint
+; nuevointS
+ nuevointSi
+nuevointSim
+uevointSimb
+evointSimbo
+vointSimbol
+ointSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo 
+oloCodigo =
+loCodigo = 
+oCodigo = i
+Codigo = in
+odigo = int
+digo = intS
+igo = intSi
+go = intSim
+o = intSimb
+ = intSimbo
+= intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo;
+oloCodigo; 
+loCodigo; n
+oCodigo; nu
+Codigo; nue
+odigo; nuev
+digo; nuevo
+igo; nuevoi
+go; nuevoin
+o; nuevoint
+; nuevointE
+ nuevointEs
+nuevointEst
+uevointEsta
+evointEstad
+vointEstado
+ointEstado 
+intEstado =
+ntEstado = 
+tEstado = i
+Estado = in
+stado = int
+tado = intE
+ado = intEs
+do = intEst
+o = intEsta
+ = intEstad
+= intEstado
+ intEstado;
+intEstado; 
+ntEstado; n
+tEstado; nu
+Estado; nue
+stado; nuev
+tado; nuevo
+ado; nuevop
+do; nuevopt
+o; nuevoptr
+; nuevoptrS
+ nuevoptrSi
+nuevoptrSig
+uevoptrSig 
+evoptrSig =
+voptrSig = 
+optrSig = N
+ptrSig = NU
+trSig = NUL
+rSig = NULL
+Sig = NULL;
+ig = NULL; 
+g = NULL; i
+ = NULL; if
+= NULL; if 
+ NULL; if (
+NULL; if (p
+ULL; if (pt
+LL; if (ptr
+L; if (ptrS
+; if (ptrSt
+ if (ptrSta
+if (ptrStac
+f (ptrStack
+ (ptrStackL
+(ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop !
+ackLRTop !=
+ckLRTop != 
+kLRTop != N
+LRTop != NU
+RTop != NUL
+Top != NULL
+op != NULL)
+p != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { n
+ NULL) { nu
+NULL) { nue
+ULL) { nuev
+LL) { nuevo
+L) { nuevop
+) { nuevopt
+ { nuevoptr
+{ nuevoptrS
+ nuevoptrSi
+nuevoptrSig
+uevoptrSig 
+evoptrSig =
+voptrSig = 
+optrSig = p
+ptrSig = pt
+trSig = ptr
+rSig = ptrS
+Sig = ptrSt
+ig = ptrSta
+g = ptrStac
+ = ptrStack
+= ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop;
+tackLRTop; 
+ackLRTop; }
+ckLRTop; } 
+kLRTop; } p
+LRTop; } pt
+RTop; } ptr
+Top; } ptrS
+op; } ptrSt
+p; } ptrSta
+; } ptrStac
+ } ptrStack
+} ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop =
+ackLRTop = 
+ckLRTop = n
+kLRTop = nu
+LRTop = nue
+RTop = nuev
+Top = nuevo
+op = nuevo;
+p = nuevo; 
+ = nuevo; }
+= nuevo; } 
+ nuevo; } v
+nuevo; } vo
+uevo; } voi
+evo; } void
+vo; } void 
+o; } void p
+; } void pu
+ } void pus
+} void push
+ void pushL
+void pushLR
+oid pushLR_
+id pushLR_T
+d pushLR_T(
+ pushLR_T(i
+pushLR_T(in
+ushLR_T(int
+shLR_T(int 
+hLR_T(int i
+LR_T(int in
+R_T(int int
+_T(int intS
+T(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo)
+oloCodigo) 
+loCodigo) {
+oCodigo) { 
+Codigo) { }
+odigo) { } 
+digo) { } v
+igo) { } vo
+go) { } voi
+o) { } void
+) { } void 
+ { } void p
+{ } void pu
+ } void pus
+} void push
+ void pushL
+void pushLR
+oid pushLR_
+id pushLR_N
+d pushLR_NT
+ pushLR_NT(
+pushLR_NT(i
+ushLR_NT(in
+shLR_NT(int
+hLR_NT(int 
+LR_NT(int i
+R_NT(int in
+_NT(int int
+NT(int intS
+T(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo)
+oloCodigo) 
+loCodigo) {
+oCodigo) { 
+Codigo) { }
+odigo) { } 
+digo) { } v
+igo) { } vo
+go) { } voi
+o) { } void
+) { } void 
+ { } void p
+{ } void pu
+ } void pus
+} void push
+ void pushL
+void pushLR
+oid pushLR_
+id pushLR_T
+d pushLR_T_
+ pushLR_T_c
+pushLR_T_cE
+ushLR_T_cEd
+shLR_T_cEdo
+hLR_T_cEdo(
+LR_T_cEdo(i
+R_T_cEdo(in
+_T_cEdo(int
+T_cEdo(int 
+_cEdo(int i
+cEdo(int in
+Edo(int int
+do(int intS
+o(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo,
+oloCodigo, 
+loCodigo, i
+oCodigo, in
+Codigo, int
+odigo, int 
+digo, int i
+igo, int in
+go, int int
+o, int intE
+, int intEs
+ int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado)
+intEstado) 
+ntEstado) {
+tEstado) { 
+Estado) { }
+stado) { } 
+tado) { } v
+ado) { } vo
+do) { } voi
+o) { } void
+) { } void 
+ { } void p
+{ } void pu
+ } void pus
+} void push
+ void pushL
+void pushLR
+oid pushLR_
+id pushLR_N
+d pushLR_NT
+ pushLR_NT_
+pushLR_NT_c
+ushLR_NT_cE
+shLR_NT_cEd
+hLR_NT_cEdo
+LR_NT_cEdo(
+R_NT_cEdo(i
+_NT_cEdo(in
+NT_cEdo(int
+T_cEdo(int 
+_cEdo(int i
+cEdo(int in
+Edo(int int
+do(int intS
+o(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo,
+oloCodigo, 
+loCodigo, i
+oCodigo, in
+Codigo, int
+odigo, int 
+digo, int i
+igo, int in
+go, int int
+o, int intE
+, int intEs
+ int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado)
+intEstado) 
+ntEstado) {
+tEstado) { 
+Estado) { }
+stado) { } 
+tado) { } v
+ado) { } vo
+do) { } voi
+o) { } void
+) { } void 
+ { } void p
+{ } void po
+ } void pop
+} void popL
+ void popLR
+void popLR(
+oid popLR()
+id popLR() 
+d popLR() {
+ popLR() { 
+popLR() { i
+opLR() { if
+pLR() { if 
+LR() { if (
+R() { if (p
+() { if (pt
+) { if (ptr
+ { if (ptrS
+{ if (ptrSt
+ if (ptrSta
+if (ptrStac
+f (ptrStack
+ (ptrStackL
+(ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop !
+ackLRTop !=
+ckLRTop != 
+kLRTop != N
+LRTop != NU
+RTop != NUL
+Top != NULL
+op != NULL)
+p != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { a
+ NULL) { au
+NULL) { aux
+ULL) { aux 
+LL) { aux =
+L) { aux = 
+) { aux = p
+ { aux = pt
+{ aux = ptr
+ aux = ptrS
+aux = ptrSt
+ux = ptrSta
+x = ptrStac
+ = ptrStack
+= ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop;
+tackLRTop; 
+ackLRTop; p
+ckLRTop; pt
+kLRTop; ptr
+LRTop; ptrS
+RTop; ptrSt
+Top; ptrSta
+op; ptrStac
+p; ptrStack
+; ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop =
+ackLRTop = 
+ckLRTop = p
+kLRTop = pt
+LRTop = ptr
+RTop = ptrS
+Top = ptrSt
+op = ptrSta
+p = ptrStac
+ = ptrStack
+= ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTopt
+tackLRToptr
+ackLRToptrS
+ckLRToptrSi
+kLRToptrSig
+LRToptrSig;
+RToptrSig; 
+ToptrSig; }
+optrSig; } 
+ptrSig; } }
+trSig; } } 
+rSig; } } v
+Sig; } } vo
+ig; } } voi
+g; } } void
+; } } void 
+ } } void p
+} } void po
+ } void pop
+} void pops
+ void pops_
+void pops_L
+oid pops_LR
+id pops_LR(
+d pops_LR(i
+ pops_LR(in
+pops_LR(int
+ops_LR(int 
+ps_LR(int i
+s_LR(int in
+_LR(int int
+LR(int intN
+R(int intNu
+(int intNum
+int intNumP
+nt intNumPo
+t intNumPop
+ intNumPops
+intNumPops)
+ntNumPops) 
+tNumPops) {
+NumPops) { 
+umPops) { f
+mPops) { fo
+Pops) { for
+ops) { for 
+ps) { for (
+s) { for (i
+) { for (in
+ { for (int
+{ for (int 
+ for (int i
+for (int i 
+or (int i =
+r (int i = 
+ (int i = 0
+(int i = 0;
+int i = 0; 
+nt i = 0; i
+t i = 0; i 
+ i = 0; i <
+i = 0; i < 
+ = 0; i < i
+= 0; i < in
+ 0; i < int
+0; i < intN
+; i < intNu
+ i < intNum
+i < intNumP
+ < intNumPo
+< intNumPop
+ intNumPops
+intNumPops;
+ntNumPops; 
+tNumPops; i
+NumPops; i+
+umPops; i++
+mPops; i++)
+Pops; i++) 
+ops; i++) {
+ps; i++) { 
+s; i++) { }
+; i++) { } 
+ i++) { } }
+i++) { } } 
+++) { } } v
++) { } } vo
+) { } } voi
+ { } } void
+{ } } void 
+ } } void v
+} } void va
+ } void vac
+} void vaci
+ void vacia
+void vaciar
+oid vaciar_
+id vaciar_S
+d vaciar_St
+ vaciar_Sta
+vaciar_Stac
+aciar_Stack
+ciar_StackL
+iar_StackLR
+ar_StackLR(
+r_StackLR()
+_StackLR() 
+StackLR() {
+tackLR() { 
+ackLR() { w
+ckLR() { wh
+kLR() { whi
+LR() { whil
+R() { while
+() { while 
+) { while (
+ { while (p
+{ while (pt
+ while (ptr
+while (ptrS
+hile (ptrSt
+ile (ptrSta
+le (ptrStac
+e (ptrStack
+ (ptrStackL
+(ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop !
+ackLRTop !=
+ckLRTop != 
+kLRTop != N
+LRTop != NU
+RTop != NUL
+Top != NULL
+op != NULL)
+p != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { }
+ NULL) { } 
+NULL) { } }
+ULL) { } } 
+LL) { } } v
+L) { } } vo
+) { } } voi
+ { } } void
+{ } } void 
+ } } void i
+} } void im
+ } void imp
+} void impr
+ void impri
+void imprim
+oid imprime
+id imprimeT
+d imprimeT_
+ imprimeT_L
+imprimeT_LR
+mprimeT_LR(
+primeT_LR(i
+rimeT_LR(in
+imeT_LR(int
+meT_LR(int 
+eT_LR(int i
+T_LR(int in
+_LR(int int
+LR(int intS
+R(int intSi
+(int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo)
+oloCodigo)/
+loCodigo)//
+oCodigo)// 
+Codigo)// {
+odigo)// { 
+digo)// { s
+igo)// { sw
+go)// { swi
+o)// { swit
+)// { switc
+// { switch
+/ { switch(
+ { switch(i
+{ switch(in
+ switch(int
+switch(intS
+witch(intSi
+itch(intSim
+tch(intSimb
+ch(intSimbo
+h(intSimbol
+(intSimbolo
+intSimboloC
+ntSimboloCo
+tSimboloCod
+SimboloCodi
+imboloCodig
+mboloCodigo
+boloCodigo)
+oloCodigo) 
+loCodigo) {
+oCodigo) { 
+Codigo) { c
+odigo) { ca
+digo) { cas
+igo) { case
+go) { case 
+o) { case S
+) { case SI
+ { case SIM
+{ case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_PR
+ERMINAL_PRO
+RMINAL_PROG
+MINAL_PROGR
+INAL_PROGRA
+NAL_PROGRAM
+AL_PROGRAMA
+L_PROGRAMA:
+_PROGRAMA: 
+PROGRAMA: b
+ROGRAMA: br
+OGRAMA: bre
+GRAMA: brea
+RAMA: break
+AMA: break;
+MA: break; 
+A: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_EO
+ERMINAL_EOF
+RMINAL_EOF:
+MINAL_EOF: 
+INAL_EOF: b
+NAL_EOF: br
+AL_EOF: bre
+L_EOF: brea
+_EOF: break
+EOF: break;
+OF: break; 
+F: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Es
+ERMINAL_Esp
+RMINAL_Espa
+MINAL_Espac
+INAL_Espaci
+NAL_Espacio
+AL_Espacio:
+L_Espacio: 
+_Espacio: b
+Espacio: br
+spacio: bre
+pacio: brea
+acio: break
+cio: break;
+io: break; 
+o: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_T
+TERMINAL_Ta
+ERMINAL_Tab
+RMINAL_Tabu
+MINAL_Tabul
+INAL_Tabula
+NAL_Tabulad
+AL_Tabulado
+L_Tabulador
+_Tabulador:
+Tabulador: 
+abulador: b
+bulador: br
+ulador: bre
+lador: brea
+ador: break
+dor: break;
+or: break; 
+r: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_S
+TERMINAL_Sa
+ERMINAL_Sal
+RMINAL_Salt
+MINAL_Salto
+INAL_SaltoD
+NAL_SaltoDe
+AL_SaltoDeL
+L_SaltoDeLi
+_SaltoDeLin
+SaltoDeLine
+altoDeLinea
+ltoDeLinea:
+toDeLinea: 
+oDeLinea: b
+DeLinea: br
+eLinea: bre
+Linea: brea
+inea: break
+nea: break;
+ea: break; 
+a: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreL
+INAL_AbreLl
+NAL_AbreLla
+AL_AbreLlav
+L_AbreLlave
+_AbreLlave:
+AbreLlave: 
+breLlave: b
+reLlave: br
+eLlave: bre
+Llave: brea
+lave: break
+ave: break;
+ve: break; 
+e: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraL
+AL_CierraLl
+L_CierraLla
+_CierraLlav
+CierraLlave
+ierraLlave:
+erraLlave: 
+rraLlave: b
+raLlave: br
+aLlave: bre
+Llave: brea
+lave: break
+ave: break;
+ve: break; 
+e: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_Ab
+ERMINAL_Abr
+RMINAL_Abre
+MINAL_AbreP
+INAL_AbrePa
+NAL_AbrePar
+AL_AbrePare
+L_AbreParen
+_AbreParent
+AbreParente
+breParentes
+reParentesi
+eParentesis
+Parentesis:
+arentesis: 
+rentesis: b
+entesis: br
+ntesis: bre
+tesis: brea
+esis: break
+sis: break;
+is: break; 
+s: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_C
+TERMINAL_Ci
+ERMINAL_Cie
+RMINAL_Cier
+MINAL_Cierr
+INAL_Cierra
+NAL_CierraP
+AL_CierraPa
+L_CierraPar
+_CierraPare
+CierraParen
+ierraParent
+erraParente
+rraParentes
+raParentesi
+aParentesis
+Parentesis:
+arentesis: 
+rentesis: b
+entesis: br
+ntesis: bre
+tesis: brea
+esis: break
+sis: break;
+is: break; 
+s: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_P
+TERMINAL_Pu
+ERMINAL_Pun
+RMINAL_Punt
+MINAL_Punto
+INAL_PuntoY
+NAL_PuntoYC
+AL_PuntoYCo
+L_PuntoYCom
+_PuntoYComa
+PuntoYComa:
+untoYComa: 
+ntoYComa: b
+toYComa: br
+oYComa: bre
+YComa: brea
+Coma: break
+oma: break;
+ma: break; 
+a: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_I
+TERMINAL_In
+ERMINAL_Int
+RMINAL_Inte
+MINAL_Inter
+INAL_Interr
+NAL_Interro
+AL_Interrog
+L_Interroga
+_Interrogac
+Interrogaci
+nterrogacio
+terrogacion
+errogacion:
+rrogacion: 
+rogacion: b
+ogacion: br
+gacion: bre
+acion: brea
+cion: break
+ion: break;
+on: break; 
+n: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_E
+TERMINAL_Ex
+ERMINAL_Exc
+RMINAL_Excl
+MINAL_Excla
+INAL_Exclam
+NAL_Exclama
+AL_Exclamac
+L_Exclamaci
+_Exclamacio
+Exclamacion
+xclamacion:
+clamacion: 
+lamacion: b
+amacion: br
+macion: bre
+acion: brea
+cion: break
+ion: break;
+on: break; 
+n: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_A
+TERMINAL_As
+ERMINAL_Ast
+RMINAL_Aste
+MINAL_Aster
+INAL_Asteri
+NAL_Asteris
+AL_Asterisc
+L_Asterisco
+_Asterisco:
+Asterisco: 
+sterisco: b
+terisco: br
+erisco: bre
+risco: brea
+isco: break
+sco: break;
+co: break; 
+o: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_D
+TERMINAL_Di
+ERMINAL_Dia
+RMINAL_Diag
+MINAL_Diago
+INAL_Diagon
+NAL_Diagona
+AL_Diagonal
+L_Diagonal:
+_Diagonal: 
+Diagonal: b
+iagonal: br
+agonal: bre
+gonal: brea
+onal: break
+nal: break;
+al: break; 
+l: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case S
+ak; case SI
+k; case SIM
+; case SIMB
+ case SIMBO
+case SIMBOL
+ase SIMBOLO
+se SIMBOLO_
+e SIMBOLO_T
+ SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL_
+_TERMINAL_M
+TERMINAL_Ma
+ERMINAL_Mas
+RMINAL_Mas:
+MINAL_Mas: 
+INAL_Mas: b
+NAL_Mas: br
+AL_Mas: bre
+L_Mas: brea
+_Mas: break
+Mas: break;
+as: break; 
+s: break; d
+: break; de
+ break; def
+break; defa
+reak; defau
+eak; defaul
+ak; default
+k; default:
+; default: 
+ default: b
+default: br
+efault: bre
+fault: brea
+ault: break
+ult: break;
+lt: break; 
+t: break; }
+: break; } 
+ break; } }
+break; } } 
+reak; } } v
+eak; } } vo
+ak; } } voi
+k; } } void
+; } } void 
+ } } void i
+} } void im
+ } void imp
+} void impr
+ void impri
+void imprim
+oid imprime
+id imprime_
+d imprime_e
+ imprime_en
+imprime_ent
+mprime_entr
+prime_entra
+rime_entrad
+ime_entrada
+me_entrada_
+e_entrada_L
+_entrada_LR
+entrada_LR(
+ntrada_LR()
+trada_LR() 
+rada_LR() {
+ada_LR() { 
+da_LR() { t
+a_LR() { t_
+_LR() { t_t
+LR() { t_to
+R() { t_tok
+() { t_toke
+) { t_token
+ { t_token 
+{ t_token a
+ t_token au
+t_token aux
+_token aux 
+token aux =
+oken aux = 
+ken aux = p
+en aux = pt
+n aux = ptr
+ aux = ptrC
+aux = ptrCu
+ux = ptrCur
+x = ptrCurr
+ = ptrCurre
+= ptrCurren
+ ptrCurrent
+ptrCurrentT
+trCurrentTo
+rCurrentTok
+CurrentToke
+urrentToken
+rrentTokenL
+rentTokenLR
+entTokenLR;
+ntTokenLR; 
+tTokenLR; w
+TokenLR; wh
+okenLR; whi
+kenLR; whil
+enLR; while
+nLR; while 
+LR; while (
+R; while (a
+; while (au
+ while (aux
+while (aux 
+hile (aux !
+ile (aux !=
+le (aux != 
+e (aux != N
+ (aux != NU
+(aux != NUL
+aux != NULL
+ux != NULL)
+x != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { a
+ NULL) { au
+NULL) { aux
+ULL) { aux 
+LL) { aux =
+L) { aux = 
+) { aux = a
+ { aux = au
+{ aux = aux
+ aux = auxp
+aux = auxpt
+ux = auxptr
+x = auxptrS
+ = auxptrSi
+= auxptrSig
+ auxptrSig;
+auxptrSig; 
+uxptrSig; }
+xptrSig; } 
+ptrSig; } }
+trSig; } } 
+rSig; } } v
+Sig; } } vo
+ig; } } voi
+g; } } void
+; } } void 
+ } } void s
+} } void st
+ } void sta
+} void stac
+ void stack
+void stack_
+oid stack_i
+id stack_im
+d stack_imp
+ stack_impr
+stack_impri
+tack_imprim
+ack_imprime
+ck_imprime2
+k_imprime2_
+_imprime2_L
+imprime2_LR
+mprime2_LR(
+prime2_LR(t
+rime2_LR(t_
+ime2_LR(t_S
+me2_LR(t_St
+e2_LR(t_Sta
+2_LR(t_Stac
+_LR(t_Stack
+LR(t_StackL
+R(t_StackLR
+(t_StackLR 
+t_StackLR n
+_StackLR no
+StackLR nod
+tackLR nodo
+ackLR nodoS
+ckLR nodoSt
+kLR nodoSta
+LR nodoStac
+R nodoStack
+ nodoStack)
+nodoStack) 
+odoStack) {
+doStack) { 
+oStack) { i
+Stack) { if
+tack) { if 
+ack) { if (
+ck) { if (n
+k) { if (no
+) { if (nod
+ { if (nodo
+{ if (nodoS
+ if (nodoSt
+if (nodoSta
+f (nodoStac
+ (nodoStack
+(nodoStack 
+nodoStack !
+odoStack !=
+doStack != 
+oStack != N
+Stack != NU
+tack != NUL
+ack != NULL
+ck != NULL)
+k != NULL) 
+ != NULL) {
+!= NULL) { 
+= NULL) { s
+ NULL) { sw
+NULL) { swi
+ULL) { swit
+LL) { switc
+L) { switch
+) { switch 
+ { switch (
+{ switch (n
+ switch (no
+switch (nod
+witch (nodo
+itch (nodoS
+tch (nodoSt
+ch (nodoSta
+h (nodoStac
+ (nodoStack
+(nodoStacki
+nodoStackin
+odoStackint
+doStackintS
+oStackintSi
+StackintSim
+tackintSimb
+ackintSimbo
+ckintSimbol
+kintSimbolo
+intSimboloT
+ntSimboloTi
+tSimboloTip
+SimboloTipo
+imboloTipo)
+mboloTipo) 
+boloTipo) {
+oloTipo) { 
+loTipo) { c
+oTipo) { ca
+Tipo) { cas
+ipo) { case
+po) { case 
+o) { case T
+) { case TI
+ { case TIP
+{ case TIPO
+ case TIPO_
+case TIPO_S
+ase TIPO_SI
+se TIPO_SIM
+e TIPO_SIMB
+ TIPO_SIMBO
+TIPO_SIMBOL
+IPO_SIMBOLO
+PO_SIMBOLO_
+O_SIMBOLO_T
+_SIMBOLO_TE
+SIMBOLO_TER
+IMBOLO_TERM
+MBOLO_TERMI
+BOLO_TERMIN
+OLO_TERMINA
+LO_TERMINAL
+O_TERMINAL:
+_TERMINAL: 
+TERMINAL: b
+ERMINAL: br
+RMINAL: bre
+MINAL: brea
+INAL: break
+NAL: break;
+AL: break; 
+L: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case T
+ak; case TI
+k; case TIP
+; case TIPO
+ case TIPO_
+case TIPO_S
+ase TIPO_SI
+se TIPO_SIM
+e TIPO_SIMB
+ TIPO_SIMBO
+TIPO_SIMBOL
+IPO_SIMBOLO
+PO_SIMBOLO_
+O_SIMBOLO_N
+_SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_T
+MBOLO_NO_TE
+BOLO_NO_TER
+OLO_NO_TERM
+LO_NO_TERMI
+O_NO_TERMIN
+_NO_TERMINA
+NO_TERMINAL
+O_TERMINAL:
+_TERMINAL: 
+TERMINAL: b
+ERMINAL: br
+RMINAL: bre
+MINAL: brea
+INAL: break
+NAL: break;
+AL: break; 
+L: break; c
+: break; ca
+ break; cas
+break; case
+reak; case 
+eak; case T
+ak; case TI
+k; case TIP
+; case TIPO
+ case TIPO_
+case TIPO_S
+ase TIPO_SI
+se TIPO_SIM
+e TIPO_SIMB
+ TIPO_SIMBO
+TIPO_SIMBOL
+IPO_SIMBOLO
+PO_SIMBOLO_
+O_SIMBOLO_N
+_SIMBOLO_NO
+SIMBOLO_NO_
+IMBOLO_NO_D
+MBOLO_NO_DE
+BOLO_NO_DEF
+OLO_NO_DEFI
+LO_NO_DEFIN
+O_NO_DEFINI
+_NO_DEFINID
+NO_DEFINIDO
+O_DEFINIDO:
+_DEFINIDO: 
+DEFINIDO: b
+EFINIDO: br
+FINIDO: bre
+INIDO: brea
+NIDO: break
+IDO: break;
+DO: break; 
+O: break; d
+: break; de
+ break; def
+break; defa
+reak; defau
+eak; defaul
+ak; default
+k; default:
+; default: 
+ default: b
+default: br
+efault: bre
+fault: brea
+ault: break
+ult: break;
+lt: break; 
+t: break; }
+: break; } 
+ break; } }
+break; } } 
+reak; } } }
+eak; } } } 
+ak; } } } v
+k; } } } vo
+; } } } voi
+ } } } void
+} } } void 
+ } } void s
+} } void st
+ } void sta
+} void stac
+ void stack
+void stack_
+oid stack_i
+id stack_im
+d stack_imp
+ stack_impr
+stack_impri
+tack_imprim
+ack_imprime
+ck_imprime_
+k_imprime_L
+_imprime_LR
+imprime_LR(
+mprime_LR()
+prime_LR() 
+rime_LR() {
+ime_LR() { 
+me_LR() { }
+e_LR() { } 
+_LR() { } i
+LR() { } in
+R() { } int
+() { } int 
+) { } int O
+ { } int Ob
+{ } int Obt
+ } int Obte
+} int Obten
+ int Obtene
+int Obtener
+nt ObtenerA
+t ObtenerAc
+ ObtenerAcc
+ObtenerAcci
+btenerAccio
+tenerAccion
+enerAccion(
+nerAccion(i
+erAccion(in
+rAccion(int
+Accion(int 
+ccion(int i
+cion(int in
+ion(int int
+on(int intE
+n(int intEs
+(int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado,
+intEstado, 
+ntEstado, i
+tEstado, in
+Estado, int
+stado, int 
+tado, int i
+ado, int in
+do, int int
+o, int intS
+, int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { i
+boloT) { in
+oloT) { int
+loT) { int 
+oT) { int i
+T) { int in
+) { int int
+ { int intA
+{ int intAc
+ int intAct
+int intActi
+nt intActio
+t intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes;
+ActionRes; 
+ctionRes; s
+tionRes; sw
+ionRes; swi
+onRes; swit
+nRes; switc
+Res; switch
+es; switch 
+s; switch (
+; switch (M
+ switch (MR
+switch (MR_
+witch (MR_L
+itch (MR_LR
+tch (MR_LR[
+ch (MR_LR[i
+h (MR_LR[in
+ (MR_LR[int
+(MR_LR[intE
+MR_LR[intEs
+R_LR[intEst
+_LR[intEsta
+LR[intEstad
+R[intEstado
+[intEstado]
+intEstado][
+ntEstado][i
+tEstado][in
+Estado][int
+stado][intS
+tado][intSi
+ado][intSim
+do][intSimb
+o][intSimbo
+][intSimbol
+[intSimbolo
+intSimboloT
+ntSimboloT]
+tSimboloT][
+SimboloT][0
+imboloT][0]
+mboloT][0])
+boloT][0]) 
+oloT][0]) {
+loT][0]) { 
+oT][0]) { c
+T][0]) { ca
+][0]) { cas
+[0]) { case
+0]) { case 
+]) { case L
+) { case LR
+ { case LR_
+{ case LR_S
+ case LR_ST
+case LR_STR
+ase LR_STRI
+se LR_STRIN
+e LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_S
+G_ACTION_SH
+_ACTION_SHI
+ACTION_SHIF
+CTION_SHIFT
+TION_SHIFT:
+ION_SHIFT: 
+ON_SHIFT: i
+N_SHIFT: in
+_SHIFT: int
+SHIFT: intA
+HIFT: intAc
+IFT: intAct
+FT: intActi
+T: intActio
+: intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes 
+ActionRes =
+ctionRes = 
+tionRes = L
+ionRes = LR
+onRes = LR_
+nRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_S
+R_ACTION_SH
+_ACTION_SHI
+ACTION_SHIF
+CTION_SHIFT
+TION_SHIFT;
+ION_SHIFT; 
+ON_SHIFT; b
+N_SHIFT; br
+_SHIFT; bre
+SHIFT; brea
+HIFT; break
+IFT; break;
+FT; break; 
+T; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case L
+ak; case LR
+k; case LR_
+; case LR_S
+ case LR_ST
+case LR_STR
+ase LR_STRI
+se LR_STRIN
+e LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_R
+G_ACTION_RE
+_ACTION_RED
+ACTION_REDU
+CTION_REDUC
+TION_REDUCE
+ION_REDUCE:
+ON_REDUCE: 
+N_REDUCE: i
+_REDUCE: in
+REDUCE: int
+EDUCE: intA
+DUCE: intAc
+UCE: intAct
+CE: intActi
+E: intActio
+: intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes 
+ActionRes =
+ctionRes = 
+tionRes = L
+ionRes = LR
+onRes = LR_
+nRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_R
+R_ACTION_RE
+_ACTION_RED
+ACTION_REDU
+CTION_REDUC
+TION_REDUCE
+ION_REDUCE;
+ON_REDUCE; 
+N_REDUCE; b
+_REDUCE; br
+REDUCE; bre
+EDUCE; brea
+DUCE; break
+UCE; break;
+CE; break; 
+E; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case L
+ak; case LR
+k; case LR_
+; case LR_S
+ case LR_ST
+case LR_STR
+ase LR_STRI
+se LR_STRIN
+e LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_A
+G_ACTION_AC
+_ACTION_ACC
+ACTION_ACCE
+CTION_ACCEP
+TION_ACCEPT
+ION_ACCEPT:
+ON_ACCEPT: 
+N_ACCEPT: i
+_ACCEPT: in
+ACCEPT: int
+CCEPT: intA
+CEPT: intAc
+EPT: intAct
+PT: intActi
+T: intActio
+: intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes 
+ActionRes =
+ctionRes = 
+tionRes = L
+ionRes = LR
+onRes = LR_
+nRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_A
+R_ACTION_AC
+_ACTION_ACC
+ACTION_ACCE
+CTION_ACCEP
+TION_ACCEPT
+ION_ACCEPT;
+ON_ACCEPT; 
+N_ACCEPT; b
+_ACCEPT; br
+ACCEPT; bre
+CCEPT; brea
+CEPT; break
+EPT; break;
+PT; break; 
+T; break; c
+; break; ca
+ break; cas
+break; case
+reak; case 
+eak; case L
+ak; case LR
+k; case LR_
+; case LR_S
+ case LR_ST
+case LR_STR
+ase LR_STRI
+se LR_STRIN
+e LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_E
+G_ACTION_ER
+_ACTION_ERR
+ACTION_ERRO
+CTION_ERROR
+TION_ERROR:
+ION_ERROR: 
+ON_ERROR: i
+N_ERROR: in
+_ERROR: int
+ERROR: intA
+RROR: intAc
+ROR: intAct
+OR: intActi
+R: intActio
+: intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes 
+ActionRes =
+ctionRes = 
+tionRes = L
+ionRes = LR
+onRes = LR_
+nRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_E
+R_ACTION_ER
+_ACTION_ERR
+ACTION_ERRO
+CTION_ERROR
+TION_ERROR;
+ION_ERROR; 
+ON_ERROR; b
+N_ERROR; br
+_ERROR; bre
+ERROR; brea
+RROR; break
+ROR; break;
+OR; break; 
+R; break; d
+; break; de
+ break; def
+break; defa
+reak; defau
+eak; defaul
+ak; default
+k; default:
+; default: 
+ default: b
+default: br
+efault: bre
+fault: brea
+ault: break
+ult: break;
+lt: break; 
+t: break; }
+: break; } 
+ break; } r
+break; } re
+reak; } ret
+eak; } retu
+ak; } retur
+k; } return
+; } return 
+ } return i
+} return in
+ return int
+return intA
+eturn intAc
+turn intAct
+urn intActi
+rn intActio
+n intAction
+ intActionR
+intActionRe
+ntActionRes
+tActionRes;
+ActionRes; 
+ctionRes; }
+tionRes; } 
+ionRes; } i
+onRes; } in
+nRes; } int
+Res; } int 
+es; } int O
+s; } int Ob
+; } int Obt
+ } int Obte
+} int Obten
+ int Obtene
+int Obtener
+nt ObtenerE
+t ObtenerEs
+ ObtenerEst
+ObtenerEsta
+btenerEstad
+tenerEstado
+enerEstadoD
+nerEstadoDe
+erEstadoDeS
+rEstadoDeSh
+EstadoDeShi
+stadoDeShif
+tadoDeShift
+adoDeShift(
+doDeShift(i
+oDeShift(in
+DeShift(int
+eShift(int 
+Shift(int i
+hift(int in
+ift(int int
+ft(int intE
+t(int intEs
+(int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado,
+intEstado, 
+ntEstado, i
+tEstado, in
+Estado, int
+stado, int 
+tado, int i
+ado, int in
+do, int int
+o, int intS
+, int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { i
+boloT) { in
+oloT) { int
+loT) { int 
+oT) { int i
+T) { int in
+) { int int
+ { int intR
+{ int intRe
+ int intRes
+int intRes 
+nt intRes =
+t intRes = 
+ intRes = L
+intRes = LR
+ntRes = LR_
+tRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_E
+R_ACTION_ER
+_ACTION_ERR
+ACTION_ERRO
+CTION_ERROR
+TION_ERROR;
+ION_ERROR; 
+ON_ERROR; i
+N_ERROR; if
+_ERROR; if 
+ERROR; if (
+RROR; if (M
+ROR; if (MR
+OR; if (MR_
+R; if (MR_L
+; if (MR_LR
+ if (MR_LR[
+if (MR_LR[i
+f (MR_LR[in
+ (MR_LR[int
+(MR_LR[intE
+MR_LR[intEs
+R_LR[intEst
+_LR[intEsta
+LR[intEstad
+R[intEstado
+[intEstado]
+intEstado][
+ntEstado][i
+tEstado][in
+Estado][int
+stado][intS
+tado][intSi
+ado][intSim
+do][intSimb
+o][intSimbo
+][intSimbol
+[intSimbolo
+intSimboloT
+ntSimboloT]
+tSimboloT][
+SimboloT][0
+imboloT][0]
+mboloT][0] 
+boloT][0] =
+oloT][0] ==
+loT][0] == 
+oT][0] == L
+T][0] == LR
+][0] == LR_
+[0] == LR_S
+0] == LR_ST
+] == LR_STR
+ == LR_STRI
+== LR_STRIN
+= LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_S
+G_ACTION_SH
+_ACTION_SHI
+ACTION_SHIF
+CTION_SHIFT
+TION_SHIFT)
+ION_SHIFT) 
+ON_SHIFT) {
+N_SHIFT) { 
+_SHIFT) { }
+SHIFT) { } 
+HIFT) { } r
+IFT) { } re
+FT) { } ret
+T) { } retu
+) { } retur
+ { } return
+{ } return 
+ } return i
+} return in
+ return int
+return intR
+eturn intRe
+turn intRes
+urn intRes;
+rn intRes; 
+n intRes; }
+ intRes; } 
+intRes; } i
+ntRes; } in
+tRes; } int
+Res; } int 
+es; } int O
+s; } int Ob
+; } int Obt
+ } int Obte
+} int Obten
+ int Obtene
+int Obtener
+nt ObtenerN
+t ObtenerNu
+ ObtenerNum
+ObtenerNumR
+btenerNumRe
+tenerNumReg
+enerNumRegl
+nerNumRegla
+erNumReglaD
+rNumReglaDe
+NumReglaDeR
+umReglaDeRe
+mReglaDeRed
+ReglaDeRedu
+eglaDeReduc
+glaDeReduce
+laDeReduce(
+aDeReduce(i
+DeReduce(in
+eReduce(int
+Reduce(int 
+educe(int i
+duce(int in
+uce(int int
+ce(int intE
+e(int intEs
+(int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado,
+intEstado, 
+ntEstado, i
+tEstado, in
+Estado, int
+stado, int 
+tado, int i
+ado, int in
+do, int int
+o, int intS
+, int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloT
+ntSimboloT)
+tSimboloT) 
+SimboloT) {
+imboloT) { 
+mboloT) { i
+boloT) { in
+oloT) { int
+loT) { int 
+oT) { int i
+T) { int in
+) { int int
+ { int intR
+{ int intRe
+ int intRes
+int intRes 
+nt intRes =
+t intRes = 
+ intRes = L
+intRes = LR
+ntRes = LR_
+tRes = LR_A
+Res = LR_AC
+es = LR_ACT
+s = LR_ACTI
+ = LR_ACTIO
+= LR_ACTION
+ LR_ACTION_
+LR_ACTION_E
+R_ACTION_ER
+_ACTION_ERR
+ACTION_ERRO
+CTION_ERROR
+TION_ERROR;
+ION_ERROR; 
+ON_ERROR; i
+N_ERROR; if
+_ERROR; if 
+ERROR; if (
+RROR; if (M
+ROR; if (MR
+OR; if (MR_
+R; if (MR_L
+; if (MR_LR
+ if (MR_LR[
+if (MR_LR[i
+f (MR_LR[in
+ (MR_LR[int
+(MR_LR[intE
+MR_LR[intEs
+R_LR[intEst
+_LR[intEsta
+LR[intEstad
+R[intEstado
+[intEstado]
+intEstado][
+ntEstado][i
+tEstado][in
+Estado][int
+stado][intS
+tado][intSi
+ado][intSim
+do][intSimb
+o][intSimbo
+][intSimbol
+[intSimbolo
+intSimboloT
+ntSimboloT]
+tSimboloT][
+SimboloT][0
+imboloT][0]
+mboloT][0] 
+boloT][0] =
+oloT][0] ==
+loT][0] == 
+oT][0] == L
+T][0] == LR
+][0] == LR_
+[0] == LR_S
+0] == LR_ST
+] == LR_STR
+ == LR_STRI
+== LR_STRIN
+= LR_STRING
+ LR_STRING_
+LR_STRING_A
+R_STRING_AC
+_STRING_ACT
+STRING_ACTI
+TRING_ACTIO
+RING_ACTION
+ING_ACTION_
+NG_ACTION_R
+G_ACTION_RE
+_ACTION_RED
+ACTION_REDU
+CTION_REDUC
+TION_REDUCE
+ION_REDUCE)
+ON_REDUCE) 
+N_REDUCE) {
+_REDUCE) { 
+REDUCE) { i
+EDUCE) { in
+DUCE) { int
+UCE) { int 
+CE) { int r
+E) { int re
+) { int res
+ { int res 
+{ int res =
+ int res = 
+int res = a
+nt res = at
+t res = ato
+ res = atoi
+res = atoi(
+es = atoi(M
+s = atoi(MR
+ = atoi(MR_
+= atoi(MR_L
+ atoi(MR_LR
+atoi(MR_LR[
+toi(MR_LR[i
+oi(MR_LR[in
+i(MR_LR[int
+(MR_LR[intE
+MR_LR[intEs
+R_LR[intEst
+_LR[intEsta
+LR[intEstad
+R[intEstado
+[intEstado]
+intEstado][
+ntEstado][i
+tEstado][in
+Estado][int
+stado][intS
+tado][intSi
+ado][intSim
+do][intSimb
+o][intSimbo
+][intSimbol
+[intSimbolo
+intSimboloT
+ntSimboloT]
+tSimboloT] 
+SimboloT] +
+imboloT] + 
+mboloT] + 1
+boloT] + 1)
+oloT] + 1);
+loT] + 1); 
+oT] + 1); }
+T] + 1); } 
+] + 1); } r
+ + 1); } re
++ 1); } ret
+ 1); } retu
+1); } retur
+); } return
+; } return 
+ } return i
+} return in
+ return int
+return intR
+eturn intRe
+turn intRes
+urn intRes;
+rn intRes; 
+n intRes; }
+ intRes; } 
+intRes; } i
+ntRes; } in
+tRes; } int
+Res; } int 
+es; } int O
+s; } int Ob
+; } int Obt
+ } int Obte
+} int Obten
+ int Obtene
+int Obtener
+nt ObtenerG
+t ObtenerGo
+ ObtenerGot
+ObtenerGoto
+btenerGoto(
+tenerGoto(i
+enerGoto(in
+nerGoto(int
+erGoto(int 
+rGoto(int i
+Goto(int in
+oto(int int
+to(int intE
+o(int intEs
+(int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado,
+intEstado, 
+ntEstado, i
+tEstado, in
+Estado, int
+stado, int 
+tado, int i
+ado, int in
+do, int int
+o, int intS
+, int intSi
+ int intSim
+int intSimb
+nt intSimbo
+t intSimbol
+ intSimbolo
+intSimboloN
+ntSimboloNT
+tSimboloNT)
+SimboloNT) 
+imboloNT) {
+mboloNT) { 
+boloNT) { i
+oloNT) { in
+loNT) { int
+oNT) { int 
+NT) { int i
+T) { int in
+) { int int
+ { int intR
+{ int intRe
+ int intRes
+int intRes 
+nt intRes =
+t intRes = 
+ intRes = L
+intRes = LR
+ntRes = LR_
+tRes = LR_E
+Res = LR_ER
+es = LR_ERR
+s = LR_ERRO
+ = LR_ERROR
+= LR_ERROR;
+ LR_ERROR; 
+LR_ERROR; i
+R_ERROR; if
+_ERROR; if 
+ERROR; if (
+RROR; if (M
+ROR; if (MR
+OR; if (MR_
+R; if (MR_L
+; if (MR_LR
+ if (MR_LR[
+if (MR_LR[i
+f (MR_LR[in
+ (MR_LR[int
+(MR_LR[intE
+MR_LR[intEs
+R_LR[intEst
+_LR[intEsta
+LR[intEstad
+R[intEstado
+[intEstado]
+intEstado][
+ntEstado][L
+tEstado][LR
+Estado][LR_
+stado][LR_G
+tado][LR_GO
+ado][LR_GOT
+do][LR_GOTO
+o][LR_GOTO_
+][LR_GOTO_O
+[LR_GOTO_OF
+LR_GOTO_OFF
+R_GOTO_OFFS
+_GOTO_OFFSE
+GOTO_OFFSET
+OTO_OFFSET 
+TO_OFFSET +
+O_OFFSET + 
+_OFFSET + i
+OFFSET + in
+FFSET + int
+FSET + intS
+SET + intSi
+ET + intSim
+T + intSimb
+ + intSimbo
++ intSimbol
+ intSimbolo
+intSimboloN
+ntSimboloNT
+tSimboloNT]
+SimboloNT] 
+imboloNT] !
+mboloNT] !=
+boloNT] != 
+oloNT] != '
+loNT] != '\
+oNT] != '\0
+NT] != '\0'
+T] != '\0')
+] != '\0') 
+ != '\0') {
+!= '\0') { 
+= '\0') { }
+ '\0') { } 
+'\0') { } r
+\0') { } re
+0') { } ret
+') { } retu
+) { } retur
+ { } return
+{ } return 
+ } return i
+} return in
+ return int
+return intR
+eturn intRe
+turn intRes
+urn intRes;
+rn intRes; 
+n intRes; }
+ intRes; } 
+intRes; } v
+ntRes; } vo
+tRes; } voi
+Res; } void
+es; } void 
+s; } void P
+; } void Po
+ } void Pon
+} void Pone
+ void Poner
+void PonerE
+oid PonerEs
+id PonerEst
+d PonerEsta
+ PonerEstad
+PonerEstado
+onerEstadoP
+nerEstadoPo
+erEstadoPor
+rEstadoPorR
+EstadoPorRe
+stadoPorRed
+tadoPorRedu
+adoPorReduc
+doPorReduce
+oPorReduce(
+PorReduce(i
+orReduce(in
+rReduce(int
+Reduce(int 
+educe(int i
+duce(int in
+uce(int int
+ce(int intE
+e(int intEs
+(int intEst
+int intEsta
+nt intEstad
+t intEstado
+ intEstado)
+intEstado) 
+ntEstado) {
+tEstado) { 
+Estado) { i
+stado) { if
+tado) { if 
+ado) { if (
+do) { if (p
+o) { if (pt
+) { if (ptr
+ { if (ptrS
+{ if (ptrSt
+ if (ptrSta
+if (ptrStac
+f (ptrStack
+ (ptrStackL
+(ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTop 
+tackLRTop !
+ackLRTop !=
+ckLRTop != 
+kLRTop != N
+LRTop != NU
+RTop != NUL
+Top != NULL
+op != NULL)
+p != NULL) 
+ != NULL) p
+!= NULL) pt
+= NULL) ptr
+ NULL) ptrS
+NULL) ptrSt
+ULL) ptrSta
+LL) ptrStac
+L) ptrStack
+) ptrStackL
+ ptrStackLR
+ptrStackLRT
+trStackLRTo
+rStackLRTop
+StackLRTopi
+tackLRTopin
+ackLRTopint
+ckLRTopintE
+kLRTopintEs
+LRTopintEst
+RTopintEsta
+TopintEstad
+opintEstado
+pintEstado 
+intEstado =
+ntEstado = 
+tEstado = i
+Estado = in
+stado = int
+tado = intE
+ado = intEs
+do = intEst
+o = intEsta
+ = intEstad
+= intEstado
+ intEstado;
+intEstado; 
+ntEstado; }
